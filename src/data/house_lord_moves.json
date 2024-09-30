@@ -1,0 +1,1298 @@
+[
+    {
+        "id": 1,
+        "house_id": 1,
+        "move_id": 1,
+        "name": "Lagna lord in 1st House",
+        "description": "Lucky, happy, and prosperous life. \nActive and wealthy. \nLong life, will gain wealth and riches. \nPhysically strong and healthy. \nSelf-made and hard-working.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 2,
+        "house_id": 1,
+        "move_id": 2,
+        "name": "Lagna lord in 2nd house",
+        "description": "Born in an affluent family, rich, famous, and respected. \nProficient in education. \nLucky after marriage. \nHealthy, and with peace of mind. \nGenerates sufficient income through job or profession.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 3,
+        "house_id": 1,
+        "move_id": 3,
+        "name": "Lagna Lord in 3rd House",
+        "description": "Affinity with younger siblings \nCourageous and one who loves to travel \nExcellent communicator and one who can author books \nGood physique and affluent friends",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 4,
+        "house_id": 1,
+        "move_id": 4,
+        "name": "Lagna Lord in 4th House",
+        "description": "Born in a noteworthy family with riches and conveyance \nAffinity towards mother and pious \nInclined towards education \nOwns assets and enjoys life's comforts",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 5,
+        "house_id": 1,
+        "move_id": 5,
+        "name": "Lagna Lord in 5th House",
+        "description": "Excellent support from wife and children. \nIntelligent, creative, and one who evinces interest in studies.\nPious and religious-minded. \nDevelops speculative interests",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 6,
+        "house_id": 1,
+        "move_id": 6,
+        "name": "Lagna Lord in 6th House",
+        "description": "Suffers from debt and disease.\nUnhappy and fear of enemies.\nSupport from maternal uncles' family.\nChances of litigation and troubles from Government Agencies",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 7,
+        "house_id": 1,
+        "move_id": 7,
+        "name": "Lagna Lord in 7th House",
+        "description": "Affinity towards the spouse and happy married life.\nLucky through the other sex.\nGood partners and colleagues in chosen profession.\nMay live away from birth place",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 8,
+        "house_id": 1,
+        "move_id": 8,
+        "name": "Lagna Lord in 8th House",
+        "description": "Benefits from ancestral assets. \nSuffers from poverty and low income. \nAway from native place and faces struggles in life. \nInterest in mysterious things and lucky from hidden activities",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 9,
+        "house_id": 1,
+        "move_id": 9,
+        "name": "Lagna Lord in 9th House",
+        "description": "Will be lucky, rich, and famous. \nFather's blessings and support. \nPious and religious-minded. \nSuccessful in higher education, especially research. \nGovernment honours and status",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 10,
+        "house_id": 1,
+        "move_id": 10,
+        "name": "Lagna Lord in 10th House",
+        "description": "Self-made entrepreneur. \nRiches, wealth, and good income generation through respectable career. \nReligious-minded, generous, and respects traditional values. \nLove and respect to elders and Guru, protects friends and relatives",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 11,
+        "house_id": 1,
+        "move_id": 11,
+        "name": "Lagna Lord in 11th House",
+        "description": "Indicates many desires and enjoys material benefits. \nSupported by siblings. \nLucky with children",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 12,
+        "house_id": 1,
+        "move_id": 12,
+        "name": "Lagna Lord in 12th House",
+        "description": "Expenses always more than income.\nSuffers from sleep disorders, is without peace of mind, and is fond of travelling. \nMay live abroad",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 13,
+        "house_id": 2,
+        "move_id": 1,
+        "name": "2nd House Lord in 1st House",
+        "description": "Eloquent in speech. \nRich, famous, intelligent, and good at studies. \nHappiness from family. \nLittle selfish with self-respect. \nHealthy and with lots of energy",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 14,
+        "house_id": 2,
+        "move_id": 2,
+        "name": "2nd House Lord in 2nd House",
+        "description": "Very truthful and a disciplinarian. \nRich and famous. \nRespectable family. \nJupiter in 2nd house without dignity may generate less income",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 15,
+        "house_id": 2,
+        "move_id": 3,
+        "name": "2nd House Lord in 3rd House",
+        "description": "Interrupted education. \nInterested in all forms of arts. \nExcellent communication skills and earnings through that. \nCourage, good physique, and affluent friends",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 16,
+        "house_id": 2,
+        "move_id": 4,
+        "name": "2nd House Lord in 4th House",
+        "description": "Comforts for the mother. \nLots of assets and wealth. \nBenefit from ancestral property. \nLong life and good health",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 17,
+        "house_id": 2,
+        "move_id": 5,
+        "name": "2nd House Lord in 5th House",
+        "description": "Excellent children and benefit from them. \nIntelligent and creative. \nAssociation with affluent and influential people. \nSpeculative interest like gambling, share market, etc.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 18,
+        "house_id": 2,
+        "move_id": 6,
+        "name": "2nd House Lord in 6th House",
+        "description": "Suffers from disease and debt. \nUnhappy life in general. \nVanquishes enemies. \nGains from servants and colleagues",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 19,
+        "house_id": 2,
+        "move_id": 7,
+        "name": "2nd House in 7th House",
+        "description": "Worthy spouse and happiness. \nTravels abroad and gains from it. \nExcellent physical appearance. \nGains from spouse and friends",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 20,
+        "house_id": 2,
+        "move_id": 8,
+        "name": "2nd House Lord in 8th House",
+        "description": "Difficult family life. \nTroubles from unexpected quarters. \nLacks integrity and not truthful. \nGains from ancestral properties.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 21,
+        "house_id": 2,
+        "move_id": 9,
+        "name": "2nd House Lord in 9th House",
+        "description": "Talks pleasantly. \nBlessed by elders. \nInvolves in foreign trade. \nPious with positive thinking\nInclined towards research work",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 22,
+        "house_id": 2,
+        "move_id": 10,
+        "name": "2nd House Lord in 10th House",
+        "description": "Good education and career. \nInterested in studies, debate, and associated with the Government. \nGainful business or profession",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 23,
+        "house_id": 2,
+        "move_id": 11,
+        "name": "2nd House Lord in 11th House",
+        "description": "Generous and excellent banker. \nHappy go lucky and support from elder siblings. \nExcellent social and employment status",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 24,
+        "house_id": 2,
+        "move_id": 12,
+        "name": "2nd House Lord in 12th House",
+        "description": "Not so respectable and a spendthrift. \nDevoid of happiness and pleasure. \nTroubles in family. \nGains through hospitals, archaeological artifacts etc.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 25,
+        "house_id": 3,
+        "move_id": 1,
+        "name": "3rd Lord in 1st House",
+        "description": "Rich, famous, support of younger siblings.\nInterested in fine arts and entertainment media. \nSuccess in all endeavours, especially new initiatives.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 26,
+        "house_id": 3,
+        "move_id": 2,
+        "name": "3rd Lord in 2nd House",
+        "description": "Suffers from disease. \nLacks courage. \nAffinity with people. \nTravel and living abroad",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 27,
+        "house_id": 3,
+        "move_id": 3,
+        "name": "3rd Lord in 3rd House",
+        "description": "Pious and religious. \nSiblings enjoy good status and they support the native. \nAffinity towards fine arts and media. \nHealthy, strong, and righteous.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 28,
+        "house_id": 3,
+        "move_id": 4,
+        "name": "3rd Lord in 4th House",
+        "description": "Happy go lucky with a good family. \nIncome through new initiatives. \nRich and famous, may incur huge expenses",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 29,
+        "house_id": 3,
+        "move_id": 5,
+        "name": "3rd Lord in 5th House",
+        "description": "Happiness from children and family. \nInterested in higher studies, especially research. \nReligious, devotee. \nAssociation with affluent people and enjoys status.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 30,
+        "house_id": 3,
+        "move_id": 6,
+        "name": "3rd Lord in 6th House",
+        "description": "Weak physique and illness.\nSuffers from litigation. \nWill be gainfully employed. \nBalance of mind",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 31,
+        "house_id": 3,
+        "move_id": 7,
+        "name": "3rd Lord in 7th House",
+        "description": "Inclined towards physical pleasures, attracted towards the opposite sex. \nCourageous and bold. \nAvoids work and remains lazy. \nSuccess in business ventures",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 32,
+        "house_id": 3,
+        "move_id": 8,
+        "name": "3rd Lord in 8th House",
+        "description": "Deformity from disease. \nLess income, may remain poor. \nEnmity with relations and siblings. \nLucky after marriage",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 33,
+        "house_id": 3,
+        "move_id": 9,
+        "name": "3rd Lord in 9th House",
+        "description": "Courageous and intelligent. \nBenefits through ancestral properties. \nReligious-minded and righteous thinker",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 34,
+        "house_id": 3,
+        "move_id": 10,
+        "name": "3rd Lord in 10th House",
+        "description": "Native remains poor and will lead an ordinary life. \nFamily business. \nEnjoys support of the Government",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 35,
+        "house_id": 3,
+        "move_id": 11,
+        "name": "3rd Lord in 11th House",
+        "description": "Support through siblings and friends. \nGains from communication related work. \nEasy income and status. \nMay live abroad.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 36,
+        "house_id": 3,
+        "move_id": 12,
+        "name": "3rd Lord in 12th House",
+        "description": "Gets into litigation and is a spendthrift. \nUnhappy with no peace of mind. \nSleep disorders. \nWorking in prison, hospital, and sanatorium, etc.\nSuccess in legal profession.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 37,
+        "house_id": 4,
+        "move_id": 1,
+        "name": "4th Lord in Lagna",
+        "description": "Enjoys riches, real estate, comforts. \nGood house and conveyance. \nSterling character. \nSupport of the mother",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 38,
+        "house_id": 4,
+        "move_id": 2,
+        "name": "4th Lord in 2nd House",
+        "description": "Respectable with name and fame. \nInclined towards higher education. \nHappiness from family. \nGains from agriculture and landed properties.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 39,
+        "house_id": 4,
+        "move_id": 3,
+        "name": "4th Lord in 3rd House",
+        "description": "Mother suffers from illness. \nNative suffers from losses and is poverty stricken. \nTravelling abroad. \nNo peace of mind, and break in education",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 40,
+        "house_id": 4,
+        "move_id": 4,
+        "name": "4th Lord in 4th House",
+        "description": "Enjoys riches, real estate, and conveyance. \nEnjoys social status and respect from others. \nLives like a king. \nGood education and will prosper in his native place",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 41,
+        "house_id": 4,
+        "move_id": 5,
+        "name": "4th Lord in 5th House",
+        "description": "Gains and support from children. \nStrong Poorvapuniya. \nLong life and intelligence. \nRich and respected in the society.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 42,
+        "house_id": 4,
+        "move_id": 6,
+        "name": "4th Lord in 6th House",
+        "description": "Suffers from disease and debt. \nLitigation in ancestral properties. \nEnmity and wavering mind. \nLoss of property",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 43,
+        "house_id": 4,
+        "move_id": 7,
+        "name": "4th Lord in 7th House",
+        "description": "Affinity towards spouse. \nGood physical appearance. \nVery amicable and a calm person. \nGains from foreign trade.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 44,
+        "house_id": 4,
+        "move_id": 8,
+        "name": "4th Lord in 8th House",
+        "description": "Lives in poverty. \nLoss of property, accidents, and diseases. \nBreak in education. \nDanger to mother",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 45,
+        "house_id": 4,
+        "move_id": 9,
+        "name": "4th Lord in 9th House",
+        "description": "Enjoys respectable career and is associated with affluent people. \nGenerally happy with all comforts. \nFather does well and lends support. \nPursues higher education and travels abroad for studies.\nReligious and righteous.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 46,
+        "house_id": 4,
+        "move_id": 10,
+        "name": "4th Lord in 10th House",
+        "description": "Gains from landed properties. \nLong life, riches, and respect. \nAssociated with affluent people. \nAn expert administrator and enjoys good status.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 47,
+        "house_id": 4,
+        "move_id": 11,
+        "name": "4th Lord in 11th House",
+        "description": "Gains from assets and wealth creation through business. \nSocietal status and success in all endeavours. \nMother suffers illness.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 48,
+        "house_id": 4,
+        "move_id": 12,
+        "name": "4th Lord in 12th House",
+        "description": "Low income and high expenses. \nLoss in business and land. \nLacks support from society and family. \nIf benefic planets are placed, may travel abroad.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 49,
+        "house_id": 5,
+        "move_id": 1,
+        "name": "5th Lord in Lagna",
+        "description": "Good karmic benefits\nSupport from children\nPious and righteous\nEnjoys career and profession\nPhysically strong and healthy\nIntelligent and profits from own business",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 50,
+        "house_id": 5,
+        "move_id": 2,
+        "name": "5th Lord in 2nd House",
+        "description": "Enjoys good income and support from children. \nGood in academics. \nGains from job/career. \nInclined towards sporting entertainment",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 51,
+        "house_id": 5,
+        "move_id": 3,
+        "name": "5th Lord in 3rd House",
+        "description": "Delayed or devoid of children. \nReligious-minded\nExcellent crisis manager.\nEffective in communication",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 52,
+        "house_id": 5,
+        "move_id": 4,
+        "name": "5th Lord in 4th House",
+        "description": "Respectable family and support of children. \nA good banker. \nHappiness and comfort. \nSupport of affluent people",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 53,
+        "house_id": 5,
+        "move_id": 5,
+        "name": "5th Lord in 5th House",
+        "description": "Rich, famous, and successful in business. \nIntelligent and inclined towards academics. \nRespectable in society. \nReligious and one who upholds values",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 54,
+        "house_id": 5,
+        "move_id": 6,
+        "name": "5th Lord in 6th House",
+        "description": "Loss due to children, they may be devoid of children. \nLess intelligent and low income. \nInvolved in speculative activities. \nWorry, anxiety, and struggles",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 55,
+        "house_id": 5,
+        "move_id": 7,
+        "name": "5th Lord in 7th House",
+        "description": "Respected and generous. \nSuccessful in love affairs. \nIf afflicted, then the native suffers from wife and children",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 56,
+        "house_id": 5,
+        "move_id": 8,
+        "name": "5th Lord in 8th House",
+        "description": "Low income and difficult life. \nSusceptible to accidents. \nNot good for children",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 57,
+        "house_id": 5,
+        "move_id": 9,
+        "name": "5th Lord in 9th House",
+        "description": "Children do well\nHappiness and comforts\nRich and good status\nEnjoys a respectable career and is associated with good people\nBalance of mind and thought process",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 58,
+        "house_id": 5,
+        "move_id": 10,
+        "name": "5th Lord in 10th House",
+        "description": "Excellent career with Government support. \nReligious and righteous.\nChildren will do well.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 59,
+        "house_id": 5,
+        "move_id": 11,
+        "name": "5th Lord in 11th House",
+        "description": "Happiness from children. \nRespectable and happy go lucky. \nRespectable position in Government. \nEnjoys success in most endeavours",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 60,
+        "house_id": 5,
+        "move_id": 12,
+        "name": "5th Lord in 12th House",
+        "description": "Devoid of children and happiness from them. \nSuffers from loss and disease. \nLacks peace of mind and generally a dull sort of person. \nGains from foreign trade.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 61,
+        "house_id": 6,
+        "move_id": 1,
+        "name": "6th Lord in Lagna",
+        "description": "Suffers from disease and debt. \nSuffers from anxiety and apprehension. \nUnclean and dirty in appearance\nLitigation and court cases",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 62,
+        "house_id": 6,
+        "move_id": 2,
+        "name": "6th Lord in 2nd House",
+        "description": "Does not have status and respectability. \nDistress in family. \nUnstable mind and speech. \nAlways in debt and poor eyesight",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 63,
+        "house_id": 6,
+        "move_id": 3,
+        "name": "6th Lord in 3rd House",
+        "description": "Does not enjoy support of siblings\nLacks courage and conviction\nDiscomfort in family and always in debt. \nGains through contract and dealership",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 64,
+        "house_id": 6,
+        "move_id": 4,
+        "name": "6th Lord in 4th House",
+        "description": "Less comfort, and enmity.\nLow income. \nSuffers from disease. \nUnhappy family and suffering to mother.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 65,
+        "house_id": 6,
+        "move_id": 5,
+        "name": "6th Lord in 5th House",
+        "description": "Suffers through children. \nAlways in conflict with people around. \nNegative thoughts and wicked in nature. \nHeart problems. \nNot happy with career",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 66,
+        "house_id": 6,
+        "move_id": 6,
+        "name": "6th Lord in 6th House",
+        "description": "Suffers from enemies and debt. \nLow income and suffers from troublemakers.\nMostly lives in the birthplace.\nMay do well in job",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 67,
+        "house_id": 6,
+        "move_id": 7,
+        "name": "6th Lord in 7th House",
+        "description": "No support from spouse and family. \nLoss of status in society. \nUnhappy family life. \nSuffers from skin and blood related disorders",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 68,
+        "house_id": 6,
+        "move_id": 8,
+        "name": "6th Lord in 8th House",
+        "description": "Not much progress in life. \nUnhealthy and wandering. \nAlways in debt, low income, and troublemaker. \nSells off ancestral properties.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 69,
+        "house_id": 6,
+        "move_id": 9,
+        "name": "6th Lord in 9th House",
+        "description": "Loss of ancestral property and litigation. \nNo support from father. \nAlways in need of income. \nSinful acts and no respect in society.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 70,
+        "house_id": 6,
+        "move_id": 10,
+        "name": "6th Lord in 10th House",
+        "description": "Earns through unscrupulous means. \nBreak in career. \nDepends on others for survival. \nIf benefic, then progress in job/service.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 71,
+        "house_id": 6,
+        "move_id": 11,
+        "name": "6th Lord in 11th House",
+        "description": "Poverty and low income.\nDoes not get along with siblings.\nAlways in debt. \nSusceptible to theft and burglary.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 72,
+        "house_id": 6,
+        "move_id": 12,
+        "name": "6th Lord in 12th House",
+        "description": "Enemies will have the upper hand. \nSleeplessness without peace of mind. \nUnnecessary expenses and frequent change of living places. \nWorks hard without much benefit.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 73,
+        "house_id": 7,
+        "move_id": 1,
+        "name": "7th Lord in Lagna",
+        "description": "Affectionate with spouse.\nGood physical appearance. \nLiked by the opposite sex. \nDistracted from career. \nEnjoys comfort and happiness. \nSocial status and good repute",
+        "created_at": "2024-08-05 12:20:09",
+        "updated_at": "2024-08-05 12:20:09"
+    },
+    {
+        "id": 74,
+        "house_id": 7,
+        "move_id": 2,
+        "name": "7th Lord in 2nd House",
+        "description": "Gains through spouse. \nHappy family and support from kith and kin. \nGains from hospitality sector. \nExhibits integrity in business activities",
+        "created_at": "2024-08-05 12:21:35",
+        "updated_at": "2024-08-05 12:21:35"
+    },
+    {
+        "id": 75,
+        "house_id": 7,
+        "move_id": 3,
+        "name": "7th Lord in 3rd House",
+        "description": "Not good for the spouse in many ways. \nLack of sexual desire. \nSelf-resilient in life",
+        "created_at": "2024-08-05 12:22:42",
+        "updated_at": "2024-08-05 12:22:42"
+    },
+    {
+        "id": 76,
+        "house_id": 7,
+        "move_id": 4,
+        "name": "7th Lord in 4th House",
+        "description": "Happiness and joy through family. \nCompetent and loving spouse. \nRespected family in society. \nGains through wife in asset building",
+        "created_at": "2024-08-05 12:23:48",
+        "updated_at": "2024-08-05 12:23:48"
+    },
+    {
+        "id": 77,
+        "house_id": 7,
+        "move_id": 5,
+        "name": "7th Lord in 5th House",
+        "description": "Not good for spouse and children. \n​Interested in the arts. \nBenefit from ancestral property. \nMay have early marriage with a spouse from an affluent family",
+        "created_at": "2024-08-05 12:24:57",
+        "updated_at": "2024-08-05 12:24:57"
+    },
+    {
+        "id": 78,
+        "house_id": 7,
+        "move_id": 6,
+        "name": "7th Lord in 6th House",
+        "description": "Misunderstanding with spouse. \nSpouse suffers from disease. \nGenerally unhappy married life. \nIncurs debts",
+        "created_at": "2024-08-05 12:25:59",
+        "updated_at": "2024-08-05 12:25:59"
+    },
+    {
+        "id": 79,
+        "house_id": 7,
+        "move_id": 7,
+        "name": "7th Lord in 7th House",
+        "description": "Dominant spouse but affectionate. \nGains from spouse and respectable living. \nPious and peace loving",
+        "created_at": "2024-08-05 12:26:58",
+        "updated_at": "2024-08-05 12:26:58"
+    },
+    {
+        "id": 80,
+        "house_id": 7,
+        "move_id": 8,
+        "name": "7th Lord in 8th House",
+        "description": "Spouse is a spendthrift.\n​Incompetent and quarrelsome spouse. \nLow income and not good for partnership in business",
+        "created_at": "2024-08-05 12:27:55",
+        "updated_at": "2024-08-05 12:27:55"
+    },
+    {
+        "id": 81,
+        "house_id": 7,
+        "move_id": 9,
+        "name": "7th Lord in 9th House",
+        "description": "Benefits from spouse. \nCompetent spouse and a happy married life. \nMakes fortune abroad.",
+        "created_at": "2024-08-05 12:28:56",
+        "updated_at": "2024-08-05 12:28:56"
+    },
+    {
+        "id": 82,
+        "house_id": 7,
+        "move_id": 10,
+        "name": "7th Lord in 10th House",
+        "description": "Gains from career/job. \nSpouse will support in career. \nRich and famous through spouse.\nFriends will be a guiding force. \nProfession abroad",
+        "created_at": "2024-08-05 12:30:16",
+        "updated_at": "2024-08-05 12:30:16"
+    },
+    {
+        "id": 83,
+        "house_id": 7,
+        "move_id": 11,
+        "name": "7th Lord in 11th House",
+        "description": "Riches and respectability through spouse or business partners. \nHappy life and supportive children. \n​Does well in career",
+        "created_at": "2024-08-05 12:31:12",
+        "updated_at": "2024-08-05 12:31:12"
+    },
+    {
+        "id": 84,
+        "house_id": 7,
+        "move_id": 12,
+        "name": "7th Lord in 12th House",
+        "description": "Spendthrift spouse. \nDebts, diseases, and huge expenses. \nUnhappy family life. \nWill be left alone without others’ support during 7th Lord’s dasa",
+        "created_at": "2024-08-05 12:32:18",
+        "updated_at": "2024-08-05 12:32:18"
+    },
+    {
+        "id": 85,
+        "house_id": 8,
+        "move_id": 1,
+        "name": "8th Lord in Lagna",
+        "description": "Suffers from disease, debt, and poverty. \n​Life becomes difficult and suffers from worries. \nFaces accidents and insults.",
+        "created_at": "2024-08-05 12:58:31",
+        "updated_at": "2024-08-05 12:58:31"
+    },
+    {
+        "id": 86,
+        "house_id": 8,
+        "move_id": 2,
+        "name": "8th Lord in 2nd House",
+        "description": "Unhappiness in the family. \nNot trustworthy. \nSpendthrift and suffers from poverty. \n​Not a dependable character.",
+        "created_at": "2024-08-05 12:59:48",
+        "updated_at": "2024-08-05 12:59:48"
+    },
+    {
+        "id": 87,
+        "house_id": 8,
+        "move_id": 3,
+        "name": "8th Lord in 3rd House",
+        "description": "Misunderstanding with siblings. \nCoward and suffers from anxiety. \n​Poor communicator.",
+        "created_at": "2024-08-05 13:00:45",
+        "updated_at": "2024-08-05 13:00:45"
+    },
+    {
+        "id": 88,
+        "house_id": 8,
+        "move_id": 4,
+        "name": "8th Lord in 4th House",
+        "description": "Lack of support from mother. \n​No comfort in life.\n​Quarrel in the family and may face litigation",
+        "created_at": "2024-08-05 13:02:31",
+        "updated_at": "2024-08-05 13:02:31"
+    },
+    {
+        "id": 89,
+        "house_id": 8,
+        "move_id": 5,
+        "name": "8th Lord in 5th House",
+        "description": "Unhappy children. \nAnxiety, apprehension, and disease. \nSudden setbacks in life. \nLess intelligent and does not get along with people",
+        "created_at": "2024-08-05 13:22:01",
+        "updated_at": "2024-08-05 13:22:01"
+    },
+    {
+        "id": 90,
+        "house_id": 8,
+        "move_id": 6,
+        "name": "8th Lord in 6th House",
+        "description": "Wicked person. \nUnhealthy and devoid of children. \nCourageous and victorious.",
+        "created_at": "2024-08-05 13:23:44",
+        "updated_at": "2024-08-05 13:23:44"
+    },
+    {
+        "id": 91,
+        "house_id": 8,
+        "move_id": 7,
+        "name": "8th Lord in 7th House",
+        "description": "Ill-treats spouse. \nSpouse has a short life but the native may live long. \nSuccessful mission abroad. \n​The spouse’s health may be affected.",
+        "created_at": "2024-08-05 13:25:06",
+        "updated_at": "2024-08-05 13:25:06"
+    },
+    {
+        "id": 92,
+        "house_id": 8,
+        "move_id": 8,
+        "name": "8th Lord in 8th House",
+        "description": "Long life, puts in hard work. \nDifficult life. \nActs without thinking and has an unstable mind. \nWill not be respected in society.",
+        "created_at": "2024-08-05 13:26:29",
+        "updated_at": "2024-08-05 13:26:29"
+    },
+    {
+        "id": 93,
+        "house_id": 8,
+        "move_id": 9,
+        "name": "8th Lord in 9th House",
+        "description": "Loss of ancestral property. \nDebt through children. \nWill not have good relationship with kith and kin. \n​Research in hidden subjects.",
+        "created_at": "2024-08-05 13:27:29",
+        "updated_at": "2024-08-05 13:27:29"
+    },
+    {
+        "id": 94,
+        "house_id": 8,
+        "move_id": 10,
+        "name": "8th Lord in 10th House",
+        "description": "Unstable in career or profession. \nDevoid of Government support. \n​Life full of sorrows",
+        "created_at": "2024-08-05 13:28:25",
+        "updated_at": "2024-08-05 13:28:25"
+    },
+    {
+        "id": 95,
+        "house_id": 8,
+        "move_id": 11,
+        "name": "8th Lord in 11th House",
+        "description": "Affects longevity. \nPoor relationship with siblings. \nGains through children. \nEarns through unscrupulous means.",
+        "created_at": "2024-08-05 13:29:41",
+        "updated_at": "2024-08-05 13:29:41"
+    },
+    {
+        "id": 96,
+        "house_id": 8,
+        "move_id": 12,
+        "name": "8th Lord in 12th House",
+        "description": "Danger to children. \nFond of travelling. \nLoss of wealth. \nIndicates a kind of Raja Yoga",
+        "created_at": "2024-08-05 13:30:43",
+        "updated_at": "2024-08-05 13:30:43"
+    },
+    {
+        "id": 97,
+        "house_id": 9,
+        "move_id": 1,
+        "name": "9th Lord in Lagna",
+        "description": "Happiness and comfort. \nGains through ancestral properties, generous and philanthropic. \nRespected in society with status. \nGood memory and intelligent with good character and conduct. \nPursues higher studies and research",
+        "created_at": "2024-08-05 13:32:04",
+        "updated_at": "2024-08-05 13:32:04"
+    },
+    {
+        "id": 98,
+        "house_id": 9,
+        "move_id": 2,
+        "name": "9th Lord in 2nd House",
+        "description": "Good communicator. \n​Happy family life and inclined towards education. \n​Riches and gains from profession. \nKeeps promises and is a person with integrity.",
+        "created_at": "2024-08-05 13:32:57",
+        "updated_at": "2024-08-05 13:32:57"
+    },
+    {
+        "id": 99,
+        "house_id": 9,
+        "move_id": 3,
+        "name": "9th Lord in 3rd House",
+        "description": "Support from father and siblings. \nEarnings through writings and communication.\nLong journeys, may travel abroad.",
+        "created_at": "2024-08-05 13:34:54",
+        "updated_at": "2024-08-05 13:34:54"
+    },
+    {
+        "id": 100,
+        "house_id": 9,
+        "move_id": 4,
+        "name": "9th Lord in 4th House",
+        "description": "Support from mother. \nEnjoys land, properties, and other physical comforts. \nEnjoys association with people.",
+        "created_at": "2024-08-05 13:35:55",
+        "updated_at": "2024-08-05 13:35:55"
+    },
+    {
+        "id": 101,
+        "house_id": 9,
+        "move_id": 5,
+        "name": "9th Lord in 5th House",
+        "description": "Children enjoy their life and gains through children. \n​Honest, generous, rich, and famous. \n​Intelligent and with good conduct. \nSupport from Government",
+        "created_at": "2024-08-05 14:03:59",
+        "updated_at": "2024-08-05 14:03:59"
+    },
+    {
+        "id": 102,
+        "house_id": 9,
+        "move_id": 6,
+        "name": "9th Lord in 6th House",
+        "description": "Debts and disease. \nLoss of ancestral properties. \n​Litigation and court cases.",
+        "created_at": "2024-08-05 14:05:04",
+        "updated_at": "2024-08-05 14:05:04"
+    },
+    {
+        "id": 103,
+        "house_id": 9,
+        "move_id": 7,
+        "name": "9th Lord in 7th House",
+        "description": "Benefits from spouse. \nCompetent and noble. \n​Gains through father. \n​Pursues public service",
+        "created_at": "2024-08-05 14:06:05",
+        "updated_at": "2024-08-05 14:06:05"
+    },
+    {
+        "id": 104,
+        "house_id": 9,
+        "move_id": 8,
+        "name": "9th Lord in 8th House",
+        "description": "Loss of father’s property. \n​Father suffers disease. \n​Generally very unlucky in speculative matters. \nDevoid of or delayed children. \nMay have deformity.",
+        "created_at": "2024-08-05 14:07:12",
+        "updated_at": "2024-08-05 14:08:24"
+    },
+    {
+        "id": 105,
+        "house_id": 9,
+        "move_id": 9,
+        "name": "9th Lord in 9th House",
+        "description": "Father has a long life and is well-placed. \n​Good thought process and luck in all spheres. \nReligious and righteous. \nIntellectual who pursues higher studies. \nEarnings in foreign land.",
+        "created_at": "2024-08-05 14:09:48",
+        "updated_at": "2024-08-05 14:09:48"
+    },
+    {
+        "id": 106,
+        "house_id": 9,
+        "move_id": 10,
+        "name": "9th Lord in 10th House",
+        "description": "Respected and supported by Government. \nExcellent career/job/profession. \nRich and famous. \nReligious and righteous. \n​Blessed by the divine",
+        "created_at": "2024-08-05 14:11:00",
+        "updated_at": "2024-08-05 14:11:00"
+    },
+    {
+        "id": 107,
+        "house_id": 9,
+        "move_id": 11,
+        "name": "9th Lord in 11th House",
+        "description": "Support from father and wealth accumulation. \nHappy family and religious mindset. \nInfluential friends.",
+        "created_at": "2024-08-05 14:11:56",
+        "updated_at": "2024-08-05 14:11:56"
+    },
+    {
+        "id": 108,
+        "house_id": 9,
+        "move_id": 12,
+        "name": "9th Lord in 12th House",
+        "description": "Loss of ancestral properties. \nLitigation and spendthrift. \nAlways in need.",
+        "created_at": "2024-08-05 14:12:52",
+        "updated_at": "2024-08-05 14:12:52"
+    },
+    {
+        "id": 109,
+        "house_id": 10,
+        "move_id": 1,
+        "name": "10th Lord in Lagna",
+        "description": "Rich and famous, respected position in the Government. \nHappiness, generous, philanthropic, and gains through business endeavours. \nSelf-made, self-employed, or has own business.",
+        "created_at": "2024-08-05 14:14:16",
+        "updated_at": "2024-08-05 14:14:16"
+    },
+    {
+        "id": 110,
+        "house_id": 10,
+        "move_id": 2,
+        "name": "10th Lord in 2nd House",
+        "description": "Handsome and eloquent in speech. \nCourageous, rich, famous, and a very cultured person. \nDevelops family business and is generally fortunate.",
+        "created_at": "2024-08-05 14:15:10",
+        "updated_at": "2024-08-05 14:15:10"
+    },
+    {
+        "id": 111,
+        "house_id": 10,
+        "move_id": 3,
+        "name": "10th Lord in 3rd House",
+        "description": "Devoid of siblings.\nGood orator and writer. \nLeads an ordinary life. \nDoes a middle-man’s job",
+        "created_at": "2024-08-05 14:16:43",
+        "updated_at": "2024-08-05 14:16:43"
+    },
+    {
+        "id": 112,
+        "house_id": 10,
+        "move_id": 4,
+        "name": "10th Lord in 4th House",
+        "description": "Enjoys real estate dealings. \n​Palatial house, landed property, and conveyance. \n​Happy family and support from mother. \nHighly learned, generous, and respected.",
+        "created_at": "2024-08-05 14:17:54",
+        "updated_at": "2024-08-05 14:17:54"
+    },
+    {
+        "id": 113,
+        "house_id": 10,
+        "move_id": 5,
+        "name": "10th Lord in 5th House",
+        "description": "Intelligent, creative, good thought process. \nWell educated and has a respectable life. \nGenerally lucky, can pursue speculation. \nEnjoys Government support.",
+        "created_at": "2024-08-05 14:34:59",
+        "updated_at": "2024-08-05 14:34:59"
+    },
+    {
+        "id": 114,
+        "house_id": 10,
+        "move_id": 6,
+        "name": "10th Lord in 6th House",
+        "description": "Wicked, covets mother’s wealth. \nSuffers from illness and deformity. \nAlways in debt. \n​May do well if employed.",
+        "created_at": "2024-08-05 14:35:59",
+        "updated_at": "2024-08-05 14:35:59"
+    },
+    {
+        "id": 115,
+        "house_id": 10,
+        "move_id": 7,
+        "name": "10th Lord in 7th House",
+        "description": "Gains through spouse. \nSelf-employed. \nEnjoys social status.",
+        "created_at": "2024-08-05 14:37:02",
+        "updated_at": "2024-08-05 14:37:02"
+    },
+    {
+        "id": 116,
+        "house_id": 10,
+        "move_id": 8,
+        "name": "10th Lord in 8th House",
+        "description": "Long life and unhappy through children. \nMisunderstanding with spouse.\nMay have adopted children. \nMay have many breaks in career.",
+        "created_at": "2024-08-05 14:38:28",
+        "updated_at": "2024-08-05 14:38:28"
+    },
+    {
+        "id": 117,
+        "house_id": 10,
+        "move_id": 9,
+        "name": "10th Lord in 9th House",
+        "description": "Religious and righteous. \nExcellent career and business prospects. \nEnjoys support of affluent people. \nGenerous and philanthropic.",
+        "created_at": "2024-08-05 14:39:54",
+        "updated_at": "2024-08-05 14:39:54"
+    },
+    {
+        "id": 118,
+        "house_id": 10,
+        "move_id": 10,
+        "name": "10th Lord in 10th House",
+        "description": "Enjoys an excellent career, job, or profession. \nExcellent thought-process. \nCompetent and well-educated. \nEnjoys the support of Government.",
+        "created_at": "2024-08-05 14:41:06",
+        "updated_at": "2024-08-05 14:41:06"
+    },
+    {
+        "id": 119,
+        "house_id": 10,
+        "move_id": 11,
+        "name": "10th Lord in 11th House",
+        "description": "Gains through all efforts and very fortunate. \nGives employment to many. \nMay not get support of elder siblings.\nStrong finances.",
+        "created_at": "2024-08-05 14:42:10",
+        "updated_at": "2024-08-05 14:42:10"
+    },
+    {
+        "id": 120,
+        "house_id": 10,
+        "move_id": 12,
+        "name": "10th Lord in 12th House",
+        "description": "Unnecessary expenses, loss of properties. \nSpendthrift. \nFrequently changes jobs. \nEnjoys good sleep and is a foodie. \nEarns through unlawful means. \nMay work abroad.",
+        "created_at": "2024-08-05 14:43:25",
+        "updated_at": "2024-08-05 14:43:25"
+    },
+    {
+        "id": 121,
+        "house_id": 11,
+        "move_id": 1,
+        "name": "11th Lord in Lagna",
+        "description": "Well-educated, eloquent, adept in speaking. \nA self-made individual. \nSocial awareness and generous nature. \nGains through occupation.\nHappy and cultured family. \nFulfills desires",
+        "created_at": "2024-08-05 14:45:21",
+        "updated_at": "2024-08-05 14:46:03"
+    },
+    {
+        "id": 122,
+        "house_id": 11,
+        "move_id": 2,
+        "name": "11th Lord in 2nd House",
+        "description": "Income and gains through career. \n​Eminent lawyer. \nGood health and physical appearance. \nSuccessful business with partners and friends.",
+        "created_at": "2024-08-05 14:47:20",
+        "updated_at": "2024-08-05 14:47:20"
+    },
+    {
+        "id": 123,
+        "house_id": 11,
+        "move_id": 3,
+        "name": "11th Lord in 3rd House",
+        "description": "Happy and prosperous life. \nSupport of elder siblings. \nEffective communication and earns through that.",
+        "created_at": "2024-08-05 14:48:13",
+        "updated_at": "2024-08-05 14:48:13"
+    },
+    {
+        "id": 124,
+        "house_id": 11,
+        "move_id": 4,
+        "name": "11th Lord in 4th House",
+        "description": "Earnings through real estate. \nRich and famous. \nHappy family and status. \nLong life and healthy. \nEnjoys landed properties, houses, and conveyance.",
+        "created_at": "2024-08-05 14:49:34",
+        "updated_at": "2024-08-05 14:49:34"
+    },
+    {
+        "id": 125,
+        "house_id": 11,
+        "move_id": 5,
+        "name": "11th Lord in 5th House",
+        "description": "Respectable family. \nGains through children and children inherit family business. \nAssociation with affluent people and comfortable desires.",
+        "created_at": "2024-08-05 14:50:37",
+        "updated_at": "2024-08-05 14:50:37"
+    },
+    {
+        "id": 126,
+        "house_id": 11,
+        "move_id": 6,
+        "name": "11th Lord in 6th House",
+        "description": "More expenses than income. \nLikely to be in debt. \nUnstable mind and trouble from enemies.",
+        "created_at": "2024-08-05 14:56:27",
+        "updated_at": "2024-08-05 14:56:27"
+    },
+    {
+        "id": 127,
+        "house_id": 11,
+        "move_id": 7,
+        "name": "11th Lord in 7th House",
+        "description": "Gains through spouse. \nLucky after marriage. \nLong life and rich. \nInterested in public and philanthropic work. \nSupport of children.",
+        "created_at": "2024-08-05 14:57:34",
+        "updated_at": "2024-08-05 14:57:34"
+    },
+    {
+        "id": 128,
+        "house_id": 11,
+        "move_id": 8,
+        "name": "11th Lord in 8th House",
+        "description": "Will try many jobs, unstable career. \nLoss of income, worrisome and difficult life.",
+        "created_at": "2024-08-05 14:58:50",
+        "updated_at": "2024-08-05 14:58:50"
+    },
+    {
+        "id": 129,
+        "house_id": 11,
+        "move_id": 9,
+        "name": "11th Lord in 9th House",
+        "description": "A Raja Yoga can be formed. \nLearned and interested in higher studies. \nInhabits parents’ business or profession. \nRiches with real estate and conveyance. \nHappy and go lucky.",
+        "created_at": "2024-08-05 15:00:08",
+        "updated_at": "2024-08-05 15:00:08"
+    },
+    {
+        "id": 130,
+        "house_id": 11,
+        "move_id": 10,
+        "name": "11th Lord in 10th House",
+        "description": "A Raja Yoga with riches. \nEarnings through respectable job. \nQuiet and happy family life. \nReligious, righteous, and a happy person.",
+        "created_at": "2024-08-05 15:01:11",
+        "updated_at": "2024-08-05 15:01:11"
+    },
+    {
+        "id": 131,
+        "house_id": 11,
+        "move_id": 11,
+        "name": "11th Lord in 11th House",
+        "description": "Well-balanced and long life. \nRespectable family and friends. \nElder siblings are well placed and they support the native. \n​Earns a lot of material benefits.",
+        "created_at": "2024-08-05 15:02:18",
+        "updated_at": "2024-08-05 15:02:18"
+    },
+    {
+        "id": 132,
+        "house_id": 11,
+        "move_id": 12,
+        "name": "11th Lord in 12th House",
+        "description": "More expenses than income and likely to be in debt. \nSuffers from disease. \nDevoid of peace in life. \nElder siblings may not do well. \nLikely to incur loss in business.",
+        "created_at": "2024-08-05 15:03:28",
+        "updated_at": "2024-08-05 15:03:28"
+    },
+    {
+        "id": 133,
+        "house_id": 12,
+        "move_id": 1,
+        "name": "12th Lord in Lagna",
+        "description": "Expenses for a good cause. \nWill enjoy a comfortable life. \nWill be lazy and laid back. \nWeak in constitution and mind.",
+        "created_at": "2024-08-05 15:04:57",
+        "updated_at": "2024-08-05 15:04:57"
+    },
+    {
+        "id": 134,
+        "house_id": 12,
+        "move_id": 2,
+        "name": "12th Lord in 2nd House",
+        "description": "Break in education and family. \n​Increase in expenses, losses, and debts. \nNot respected in society and less inclined towards service.",
+        "created_at": "2024-08-05 15:06:11",
+        "updated_at": "2024-08-05 15:06:11"
+    },
+    {
+        "id": 135,
+        "house_id": 12,
+        "move_id": 3,
+        "name": "12th Lord in 3rd House",
+        "description": "Loss of ancestral property. \nSpendthrift. \nLoss through siblings. \nMay live abroad.",
+        "created_at": "2024-08-05 15:07:16",
+        "updated_at": "2024-08-05 15:07:16"
+    },
+    {
+        "id": 136,
+        "house_id": 12,
+        "move_id": 4,
+        "name": "12th Lord in 4th House",
+        "description": "Less comforts and more responsibilities. \n​More family expenses and through kith and kin. \nLoss through physical assets. \nFoodie and enjoys sleep.",
+        "created_at": "2024-08-05 15:08:17",
+        "updated_at": "2024-08-05 15:08:17"
+    },
+    {
+        "id": 137,
+        "house_id": 12,
+        "move_id": 5,
+        "name": "12th Lord in 5th House",
+        "description": "Enmity and loss of health. \nGenerous, philanthropic, religious, and righteous.\nExpenses through children and elders. \nWorries and no peace of mind.",
+        "created_at": "2024-08-05 15:09:29",
+        "updated_at": "2024-08-05 15:09:29"
+    },
+    {
+        "id": 138,
+        "house_id": 12,
+        "move_id": 6,
+        "name": "12th Lord in 6th House",
+        "description": "Suffers from expenses and disease. \nLitigation and court cases. \nAnti-social and will not respect traditional values.",
+        "created_at": "2024-08-05 15:10:34",
+        "updated_at": "2024-08-05 15:10:34"
+    },
+    {
+        "id": 139,
+        "house_id": 12,
+        "move_id": 7,
+        "name": "12th Lord in 7th House",
+        "description": "Will spend for associates and opposite sex. \nUnhappy married life. \nMay be generous and philanthropic.",
+        "created_at": "2024-08-05 15:11:40",
+        "updated_at": "2024-08-05 15:11:40"
+    },
+    {
+        "id": 140,
+        "house_id": 12,
+        "move_id": 8,
+        "name": "12th Lord in 8th House.",
+        "description": "Expenses through litigation. \nLoss of ancestral property. \nSuffering from illness. \nGains through inheritance.",
+        "created_at": "2024-08-05 15:12:57",
+        "updated_at": "2024-08-05 15:12:57"
+    },
+    {
+        "id": 141,
+        "house_id": 12,
+        "move_id": 9,
+        "name": "12th Lord in 9th House",
+        "description": "Will not be lucky. \nDifference of opinion with father and siblings. \nNot much income. \nMay choose to live abroad.",
+        "created_at": "2024-08-05 15:14:41",
+        "updated_at": "2024-08-05 15:14:41"
+    },
+    {
+        "id": 142,
+        "house_id": 12,
+        "move_id": 10,
+        "name": "12th Lord in 10th House",
+        "description": "Loss in business or service. \nMay be a wanderer and one who loves to travel. \nMay be hard-working.",
+        "created_at": "2024-08-05 15:15:59",
+        "updated_at": "2024-08-05 15:15:59"
+    },
+    {
+        "id": 143,
+        "house_id": 12,
+        "move_id": 11,
+        "name": "12th Lord in 11th House",
+        "description": "Reasonable income. \nSpends on religious rites. \nGood progeny. \nLoss through elder siblings. \nUndertakes pilgrimages. \nWill not make profit in business.",
+        "created_at": "2024-08-05 15:17:10",
+        "updated_at": "2024-08-05 15:17:10"
+    },
+    {
+        "id": 144,
+        "house_id": 12,
+        "move_id": 12,
+        "name": "12th Lord in 12th House",
+        "description": "Simple life. \nEnjoys good sleep and food. \nMeets with accidents. \nCan tend to spend beyond means.",
+        "created_at": "2024-08-05 15:18:12",
+        "updated_at": "2024-08-05 15:18:12"
+    }
+]

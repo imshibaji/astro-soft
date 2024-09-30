@@ -1,0 +1,974 @@
+[
+    {
+        "id": 1,
+        "planet_id": 1,
+        "house_id": 1,
+        "name": "Sun in Lagna",
+        "description": "Anger and aggression. \nSuccess in politics.\nGood physical appearance. \nHonourable and enjoys status.",
+        "created_at": "2024-08-05 11:20:58",
+        "updated_at": "2024-08-05 15:20:52"
+    },
+    {
+        "id": 2,
+        "planet_id": 1,
+        "house_id": 2,
+        "name": "Sun In 2nd House",
+        "description": "May suffer from facial disease. \n​Hot-tempered and adamant. \n​Loss of money. \nDefective eye sight.",
+        "created_at": "2024-08-05 16:14:13",
+        "updated_at": "2024-08-05 16:14:13"
+    },
+    {
+        "id": 3,
+        "planet_id": 1,
+        "house_id": 3,
+        "name": "Sun In 3rd House",
+        "description": "Courageous and strong. \nGood-looking and learned. \nGives or shares wealth. \nHappy and successful in life.",
+        "created_at": "2024-08-05 16:15:53",
+        "updated_at": "2024-08-05 16:15:53"
+    },
+    {
+        "id": 4,
+        "planet_id": 1,
+        "house_id": 4,
+        "name": "Sun In 4th House",
+        "description": "Trouble to mother and relations. \n​Devoid of happiness and education. \nDoubtful character and loss of fixed assets. \nMay suffer heart disease.",
+        "created_at": "2024-08-05 16:17:01",
+        "updated_at": "2024-08-05 16:17:01"
+    },
+    {
+        "id": 5,
+        "planet_id": 1,
+        "house_id": 5,
+        "name": "Sun In 5th House",
+        "description": "Deprived of happiness, sons, and wealth. \nNot good for children. \nReckless towards kith and kin.",
+        "created_at": "2024-08-05 16:17:57",
+        "updated_at": "2024-08-05 16:17:57"
+    },
+    {
+        "id": 6,
+        "planet_id": 1,
+        "house_id": 6,
+        "name": "Sun In 6th House",
+        "description": "Strong, affluent, and famous. \nIntellectual and courageous.",
+        "created_at": "2024-08-05 16:19:15",
+        "updated_at": "2024-08-05 16:19:15"
+    },
+    {
+        "id": 7,
+        "planet_id": 1,
+        "house_id": 7,
+        "name": "Sun In 7th House",
+        "description": "Poor and loss of status. \nDispleasure of the Government. \nDoubtful character and delayed marriage.",
+        "created_at": "2024-08-05 16:20:14",
+        "updated_at": "2024-08-05 16:20:14"
+    },
+    {
+        "id": 8,
+        "planet_id": 1,
+        "house_id": 8,
+        "name": "Sun In 8th House",
+        "description": "Devoid of wealth and happiness. \nSuffers from diseases and less children.",
+        "created_at": "2024-08-05 16:23:21",
+        "updated_at": "2024-08-05 16:23:21"
+    },
+    {
+        "id": 9,
+        "planet_id": 1,
+        "house_id": 9,
+        "name": "Sun In 9th House",
+        "description": "Will be bestowed with wealth and children.\nInclined towards higher studies. \nGenerous and philanthropic.",
+        "created_at": "2024-08-05 16:24:21",
+        "updated_at": "2024-08-05 16:24:21"
+    },
+    {
+        "id": 10,
+        "planet_id": 1,
+        "house_id": 10,
+        "name": "Sun In 10th House",
+        "description": "Excellent career and support of Government. \nIntelligent, rich, and strong. \nWell-known and acquires wealth.",
+        "created_at": "2024-08-05 16:25:14",
+        "updated_at": "2024-08-05 16:25:14"
+    },
+    {
+        "id": 11,
+        "planet_id": 1,
+        "house_id": 11,
+        "name": "Sun In 11th House",
+        "description": "Accumulates money and has a strong mind. \nEnjoys status and respect.",
+        "created_at": "2024-08-05 16:26:15",
+        "updated_at": "2024-08-05 16:26:15"
+    },
+    {
+        "id": 12,
+        "planet_id": 1,
+        "house_id": 12,
+        "name": "Sun In 12th House",
+        "description": "Sinful and wicked. \nDeformed physique. \nInimical to father.",
+        "created_at": "2024-08-05 16:27:27",
+        "updated_at": "2024-08-05 16:27:27"
+    },
+    {
+        "id": 13,
+        "planet_id": 2,
+        "house_id": 1,
+        "name": "Moon In Lagna",
+        "description": "Generally struggles in life. \nMoon in Cancer, Taurus or Aries are good. \nThe native will be rich and liberal. \nFor all other signs, the native will be passionate and adamant.",
+        "created_at": "2024-08-05 16:29:18",
+        "updated_at": "2024-08-05 16:29:18"
+    },
+    {
+        "id": 14,
+        "planet_id": 2,
+        "house_id": 2,
+        "name": "Moon In 2nd House",
+        "description": "Happy and wealthy. \nGood looking and intelligent.",
+        "created_at": "2024-08-05 16:31:14",
+        "updated_at": "2024-08-05 16:31:14"
+    },
+    {
+        "id": 15,
+        "planet_id": 2,
+        "house_id": 3,
+        "name": "Moon In 3rd House",
+        "description": "Courageous and learned. \nMay suffer from diseases.",
+        "created_at": "2024-08-05 16:32:29",
+        "updated_at": "2024-08-05 16:32:29"
+    },
+    {
+        "id": 16,
+        "planet_id": 2,
+        "house_id": 4,
+        "name": "Moon In 4th House",
+        "description": "Success and mother's support. \nGood physical assets and conveyance. \nAcademic success.",
+        "created_at": "2024-08-05 16:34:29",
+        "updated_at": "2024-08-05 16:34:29"
+    },
+    {
+        "id": 17,
+        "planet_id": 2,
+        "house_id": 5,
+        "name": "Moon In 5th House",
+        "description": "Intelligent person. \nGood family and spouse.",
+        "created_at": "2024-08-05 16:35:32",
+        "updated_at": "2024-08-05 16:35:32"
+    },
+    {
+        "id": 18,
+        "planet_id": 2,
+        "house_id": 6,
+        "name": "Moon In 6th House",
+        "description": "Short-lived and suffers from disease. \nLow income and poverty.",
+        "created_at": "2024-08-05 16:36:25",
+        "updated_at": "2024-08-05 16:36:25"
+    },
+    {
+        "id": 19,
+        "planet_id": 2,
+        "house_id": 7,
+        "name": "Moon In 7th House",
+        "description": "Happy and amiable. \nExcellent family and energetic.",
+        "created_at": "2024-08-05 16:37:59",
+        "updated_at": "2024-08-05 16:37:59"
+    },
+    {
+        "id": 20,
+        "planet_id": 2,
+        "house_id": 8,
+        "name": "Moon In 8th House",
+        "description": "Threat to life. \nLoss of wealth. \nSuffers from diseases.",
+        "created_at": "2024-08-05 16:39:26",
+        "updated_at": "2024-08-05 16:39:26"
+    },
+    {
+        "id": 21,
+        "planet_id": 2,
+        "house_id": 9,
+        "name": "Moon In 9th House",
+        "description": "Happy, wealthy, and intelligent. \nLong life and success in all endeavours.",
+        "created_at": "2024-08-05 16:41:05",
+        "updated_at": "2024-08-05 16:41:05"
+    },
+    {
+        "id": 22,
+        "planet_id": 2,
+        "house_id": 10,
+        "name": "Moon In 10th House",
+        "description": "Affluent and strong. \nHealthy and enjoys power.",
+        "created_at": "2024-08-05 16:42:05",
+        "updated_at": "2024-08-05 16:42:05"
+    },
+    {
+        "id": 23,
+        "planet_id": 2,
+        "house_id": 11,
+        "name": "Moon In 11th House",
+        "description": "Successful and respected. \nLong life and wealthy. \nIntellectual, philanthropic and learned.",
+        "created_at": "2024-08-05 16:43:41",
+        "updated_at": "2024-08-05 16:43:41"
+    },
+    {
+        "id": 24,
+        "planet_id": 2,
+        "house_id": 12,
+        "name": "Moon In 12th House",
+        "description": "Mean and suffers eye diseases. \nUnscrupulous and lonely. \nUnfortunate and may have a defective body.",
+        "created_at": "2024-08-05 16:44:56",
+        "updated_at": "2024-08-05 16:44:56"
+    },
+    {
+        "id": 25,
+        "planet_id": 9,
+        "house_id": 1,
+        "name": "Mars In Lagna",
+        "description": "Argumentative, scars on the body.\nCruel, adventurous, and with a short life.",
+        "created_at": "2024-08-05 16:46:42",
+        "updated_at": "2024-08-05 16:46:42"
+    },
+    {
+        "id": 26,
+        "planet_id": 9,
+        "house_id": 2,
+        "name": "Mars In 2nd House",
+        "description": "Low income and poor. \nQuarrelsome.",
+        "created_at": "2024-08-05 16:48:11",
+        "updated_at": "2024-08-05 16:48:11"
+    },
+    {
+        "id": 27,
+        "planet_id": 9,
+        "house_id": 3,
+        "name": "Mars In 3rd House",
+        "description": "Less siblings and low moral values. \nCourageous and invincible. \nShort-tempered and break in education.",
+        "created_at": "2024-08-05 16:49:30",
+        "updated_at": "2024-08-05 16:49:30"
+    },
+    {
+        "id": 28,
+        "planet_id": 9,
+        "house_id": 4,
+        "name": "Mars In 4th House",
+        "description": "Not lucky with assets and conveyance. \nTrouble in the family and general discomfort. \nUnlucky and lacks mother's support.",
+        "created_at": "2024-08-05 16:51:48",
+        "updated_at": "2024-08-05 16:51:48"
+    },
+    {
+        "id": 29,
+        "planet_id": 9,
+        "house_id": 5,
+        "name": "Mars In 5th House",
+        "description": "Delayed children. \nIntelligent. \nDevoid of happiness and wealth. \nTrouble from Government.",
+        "created_at": "2024-08-05 16:53:03",
+        "updated_at": "2024-08-05 16:53:03"
+    },
+    {
+        "id": 30,
+        "planet_id": 9,
+        "house_id": 6,
+        "name": "Mars In 6th House",
+        "description": "Well-built and strong. \nSpouse may have health issues. \nCourageous and victorious.",
+        "created_at": "2024-08-05 16:55:00",
+        "updated_at": "2024-08-05 16:55:00"
+    },
+    {
+        "id": 31,
+        "planet_id": 9,
+        "house_id": 7,
+        "name": "Mars In 7th House",
+        "description": "Delay in marriage and ill-tempered. \nSinful and devoid of wealth.\nUnhappy and distressed.",
+        "created_at": "2024-08-05 16:56:16",
+        "updated_at": "2024-08-05 16:56:16"
+    },
+    {
+        "id": 32,
+        "planet_id": 9,
+        "house_id": 8,
+        "name": "Mars In 8th House",
+        "description": "Has a short life and suffers from disease. \nConcern for spouse.",
+        "created_at": "2024-08-05 16:57:31",
+        "updated_at": "2024-08-05 16:57:31"
+    },
+    {
+        "id": 33,
+        "planet_id": 9,
+        "house_id": 9,
+        "name": "Mars In 9th House",
+        "description": "Adamant and lacks father's support. \nUnskilled and sinful.",
+        "created_at": "2024-08-05 17:00:20",
+        "updated_at": "2024-08-05 17:00:20"
+    },
+    {
+        "id": 34,
+        "planet_id": 9,
+        "house_id": 10,
+        "name": "Mars In 10th House",
+        "description": "Very effective in all acts. \nValorous and unconquerable. \nRiches and gains in profession.",
+        "created_at": "2024-08-05 17:02:01",
+        "updated_at": "2024-08-05 17:02:01"
+    },
+    {
+        "id": 35,
+        "planet_id": 9,
+        "house_id": 11,
+        "name": "Mars In 11th House",
+        "description": "Amiable, learned, and generous. \nMany properties and gains through children.",
+        "created_at": "2024-08-05 17:03:01",
+        "updated_at": "2024-08-05 17:03:01"
+    },
+    {
+        "id": 36,
+        "planet_id": 9,
+        "house_id": 12,
+        "name": "Mars In 12th House",
+        "description": "Will suffer from eye diseases. \nLow moral values and fierce. \nPoor career and income.",
+        "created_at": "2024-08-05 17:04:17",
+        "updated_at": "2024-08-05 17:04:17"
+    },
+    {
+        "id": 37,
+        "planet_id": 5,
+        "house_id": 1,
+        "name": "Mercury In Lagna",
+        "description": "Respected and learned. \nGood physique, intelligent, and has a long life.",
+        "created_at": "2024-08-05 17:06:02",
+        "updated_at": "2024-08-05 17:06:02"
+    },
+    {
+        "id": 38,
+        "planet_id": 5,
+        "house_id": 2,
+        "name": "Mercury In 2nd House",
+        "description": "Religious and righteous. \nEarns considerable wealth. \nGood conduct and speech. \nMany children and success.",
+        "created_at": "2024-08-05 17:07:35",
+        "updated_at": "2024-08-05 17:07:35"
+    },
+    {
+        "id": 39,
+        "planet_id": 5,
+        "house_id": 3,
+        "name": "Mercury In 3rd House",
+        "description": "Hard worker with integrity. \nGood siblings and an excellent communicator.",
+        "created_at": "2024-08-05 17:10:20",
+        "updated_at": "2024-08-05 17:10:20"
+    },
+    {
+        "id": 40,
+        "planet_id": 5,
+        "house_id": 4,
+        "name": "Mercury In 4th House",
+        "description": "Acquires land and properties. \nFortunate and enjoys conveyance. \nLearned and enjoys mother's support.",
+        "created_at": "2024-08-05 17:11:41",
+        "updated_at": "2024-08-05 17:11:41"
+    },
+    {
+        "id": 41,
+        "planet_id": 5,
+        "house_id": 5,
+        "name": "Mercury In 5th House",
+        "description": "Happy and learned. \nMany children. \nRespected and wealthy.",
+        "created_at": "2024-08-05 17:23:48",
+        "updated_at": "2024-08-05 17:23:48"
+    },
+    {
+        "id": 42,
+        "planet_id": 5,
+        "house_id": 6,
+        "name": "Mercury In 6th House",
+        "description": "Successful in litigation and court cases. \nBreak in education. \nSuffers from diseases.",
+        "created_at": "2024-08-05 17:27:54",
+        "updated_at": "2024-08-05 17:27:54"
+    },
+    {
+        "id": 43,
+        "planet_id": 5,
+        "house_id": 7,
+        "name": "Mercury In 7th House",
+        "description": "Good appearance and learned. \nVery passionate and generous. \nSuccessful married life.",
+        "created_at": "2024-08-05 17:30:44",
+        "updated_at": "2024-08-05 17:30:44"
+    },
+    {
+        "id": 44,
+        "planet_id": 5,
+        "house_id": 8,
+        "name": "Mercury In 8th House",
+        "description": "Has a long life and respected. \nPhysically strong and healthy. \nOwns a lot of properties and assets. \nHelpful in nature.",
+        "created_at": "2024-08-05 17:32:18",
+        "updated_at": "2024-08-05 17:32:18"
+    },
+    {
+        "id": 45,
+        "planet_id": 5,
+        "house_id": 9,
+        "name": "Mercury In 9th House",
+        "description": "Generous, philosophical, and learned.\nAffluent and virtuous. \nSkilled and eloquent in speech.",
+        "created_at": "2024-08-05 17:34:44",
+        "updated_at": "2024-08-05 17:34:44"
+    },
+    {
+        "id": 46,
+        "planet_id": 5,
+        "house_id": 10,
+        "name": "Mercury In 10th House",
+        "description": "Intelligent and performs good acts. \nLearned and courageous. \nFortunate and happy. \nA Lawyer or Banker.",
+        "created_at": "2024-08-05 17:36:54",
+        "updated_at": "2024-08-05 17:36:54"
+    },
+    {
+        "id": 47,
+        "planet_id": 5,
+        "house_id": 11,
+        "name": "Mercury In 11th House",
+        "description": "Successful in business.\nGood relationship with kith and kin.",
+        "created_at": "2024-08-05 17:42:45",
+        "updated_at": "2024-08-05 17:42:45"
+    },
+    {
+        "id": 48,
+        "planet_id": 5,
+        "house_id": 12,
+        "name": "Mercury In 12th House",
+        "description": "Over indulgent and devoid of children. \nEloquent and learned. \nCruel and may be poor.",
+        "created_at": "2024-08-05 17:45:48",
+        "updated_at": "2024-08-05 17:45:48"
+    },
+    {
+        "id": 49,
+        "planet_id": 3,
+        "house_id": 1,
+        "name": "Jupiter in Lagna",
+        "description": "Attractive personality. \nLearned and enjoys social status.\nLong and happy life.",
+        "created_at": "2024-08-05 17:47:48",
+        "updated_at": "2024-08-05 17:47:48"
+    },
+    {
+        "id": 50,
+        "planet_id": 3,
+        "house_id": 2,
+        "name": "Jupiter In 2nd House",
+        "description": "Amiable and eloquent. \nAffluent status. \nRich, fortunate, and runs charitable institutions.",
+        "created_at": "2024-08-05 17:49:44",
+        "updated_at": "2024-08-05 17:49:44"
+    },
+    {
+        "id": 51,
+        "planet_id": 3,
+        "house_id": 3,
+        "name": "Jupiter in 3rd House",
+        "description": "Good siblings. \nSuccessful cultivator. \nMay do sinful acts.",
+        "created_at": "2024-08-05 17:51:14",
+        "updated_at": "2024-08-05 17:51:14"
+    },
+    {
+        "id": 52,
+        "planet_id": 3,
+        "house_id": 4,
+        "name": "Jupiter In 4th House",
+        "description": "Enjoys assets and conveyance. \nIntelligent and enjoys good relationships. \nHappiness and enjoys comforts. \nSupport of mother.",
+        "created_at": "2024-08-05 17:53:02",
+        "updated_at": "2024-08-05 17:53:02"
+    },
+    {
+        "id": 53,
+        "planet_id": 3,
+        "house_id": 5,
+        "name": "Jupiter In 5th House",
+        "description": "Intelligent and talented. \nCourageous, wealthy, and enjoys comforts. \nGood-looking. \nChildren may be delayed.",
+        "created_at": "2024-08-05 17:54:25",
+        "updated_at": "2024-08-05 17:54:25"
+    },
+    {
+        "id": 54,
+        "planet_id": 3,
+        "house_id": 6,
+        "name": "Jupiter In 6th House",
+        "description": "Friendly person but mostly unsuccessful. \nWeak and indolent. \nMay be lucky in marriage.",
+        "created_at": "2024-08-05 17:56:20",
+        "updated_at": "2024-08-05 17:56:20"
+    },
+    {
+        "id": 55,
+        "planet_id": 3,
+        "house_id": 7,
+        "name": "Jupiter In 7th House",
+        "description": "Support of spouse and business partners. \nGood appearance and personality. \nWell-educated and famous.",
+        "created_at": "2024-08-05 17:57:52",
+        "updated_at": "2024-08-05 17:57:52"
+    },
+    {
+        "id": 56,
+        "planet_id": 3,
+        "house_id": 8,
+        "name": "Jupiter In 8th House",
+        "description": "Has a long life and may do unskilled jobs. \nLow minded and addicted to vices.",
+        "created_at": "2024-08-05 17:59:10",
+        "updated_at": "2024-08-05 17:59:10"
+    },
+    {
+        "id": 57,
+        "planet_id": 3,
+        "house_id": 9,
+        "name": "Jupiter In 9th House",
+        "description": "Religious and righteous. \nLearned and fortunate. \nA rightful leader.",
+        "created_at": "2024-08-05 18:01:04",
+        "updated_at": "2024-08-05 18:01:04"
+    },
+    {
+        "id": 58,
+        "planet_id": 3,
+        "house_id": 10,
+        "name": "Jupiter In 10th House",
+        "description": "Respected in society. \nSuccessful in all undertakings. \nLearned and honoured.",
+        "created_at": "2024-08-05 18:02:01",
+        "updated_at": "2024-08-05 18:02:01"
+    },
+    {
+        "id": 59,
+        "planet_id": 3,
+        "house_id": 11,
+        "name": "Jupiter In 11th House",
+        "description": "Generous and charitable. \nVirtuous and may have limited education. \nFew children.",
+        "created_at": "2024-08-05 18:03:32",
+        "updated_at": "2024-08-05 18:03:32"
+    },
+    {
+        "id": 60,
+        "planet_id": 3,
+        "house_id": 12,
+        "name": "Jupiter In 12th House",
+        "description": "Devoid of luck, indolent and odious. \nWicked and sinful.",
+        "created_at": "2024-08-05 18:05:18",
+        "updated_at": "2024-08-05 18:05:18"
+    },
+    {
+        "id": 61,
+        "planet_id": 6,
+        "house_id": 1,
+        "name": "Venus in Lagna",
+        "description": "Inclination towards arts and music. \nGood physical appearance. \nHappy and has a long life.",
+        "created_at": "2024-08-05 18:07:08",
+        "updated_at": "2024-08-05 18:07:08"
+    },
+    {
+        "id": 62,
+        "planet_id": 6,
+        "house_id": 2,
+        "name": "Venus In 2th House",
+        "description": "Riches and wealth. \nComfort and happiness. \nEloquent in speech. ​\nWill amass wealth.",
+        "created_at": "2024-08-05 18:08:25",
+        "updated_at": "2024-08-05 18:08:38"
+    },
+    {
+        "id": 63,
+        "planet_id": 6,
+        "house_id": 3,
+        "name": "Venus In 3rd House",
+        "description": "Native will be happy. \nRich and famous. \nEnthusiastic and wild in nature. \nWill not be lucky.",
+        "created_at": "2024-08-05 18:11:49",
+        "updated_at": "2024-08-05 18:11:49"
+    },
+    {
+        "id": 64,
+        "planet_id": 6,
+        "house_id": 4,
+        "name": "Venus in 4th House",
+        "description": "Comfort, conveyance, and good education. \nHappiness and good friends. \nGood physical appearance. \nRich and fortunate.",
+        "created_at": "2024-08-05 18:12:50",
+        "updated_at": "2024-08-05 18:13:20"
+    },
+    {
+        "id": 65,
+        "planet_id": 6,
+        "house_id": 5,
+        "name": "Venus In 5th House",
+        "description": "Mother's ill health. \nLearned and respected. \nHappy friends and children. \nSexually active. \nAffluent with status.",
+        "created_at": "2024-08-05 18:15:04",
+        "updated_at": "2024-08-05 18:15:04"
+    },
+    {
+        "id": 66,
+        "planet_id": 6,
+        "house_id": 6,
+        "name": "Venus In 6th House",
+        "description": "Destruction of enemies, wicked and has ill health.\nDevoid of wealth. \nWell-informed and knowledgeable.",
+        "created_at": "2024-08-05 18:16:28",
+        "updated_at": "2024-08-05 18:16:28"
+    },
+    {
+        "id": 67,
+        "planet_id": 6,
+        "house_id": 7,
+        "name": "Venus In 7th House",
+        "description": "Happy marriage and excessive indulgence. \nGood physical appearance. \nHappy with spouse and family. \nEnjoys riches and fortunate.",
+        "created_at": "2024-08-05 18:19:50",
+        "updated_at": "2024-08-05 18:19:50"
+    },
+    {
+        "id": 68,
+        "planet_id": 6,
+        "house_id": 8,
+        "name": "Venus In 8th House",
+        "description": "Has a Long life and happy. \nVery rich but disrespected. \nEnjoys monetary status.",
+        "created_at": "2024-08-05 18:21:37",
+        "updated_at": "2024-08-05 18:21:37"
+    },
+    {
+        "id": 69,
+        "planet_id": 6,
+        "house_id": 9,
+        "name": "Venus In 9th House",
+        "description": "Endowed with wealth. \nCharitable spouse. \nLearned, respected, generous and successful. \nRespect for elders.",
+        "created_at": "2024-08-05 18:23:14",
+        "updated_at": "2024-08-05 18:23:14"
+    },
+    {
+        "id": 70,
+        "planet_id": 6,
+        "house_id": 10,
+        "name": "Venus In 10th House",
+        "description": "Religious and righteous. \nPolitical power and happy. \nEarns success in litigation. \nSexual unions",
+        "created_at": "2024-08-05 18:33:10",
+        "updated_at": "2024-08-05 18:33:10"
+    },
+    {
+        "id": 71,
+        "planet_id": 6,
+        "house_id": 11,
+        "name": "Venus In 11th House",
+        "description": "Obedient servants. \nLearned and wealthy.\nVictorious and courageous.\nBereft of miseries.",
+        "created_at": "2024-08-05 18:36:41",
+        "updated_at": "2024-08-05 18:36:41"
+    },
+    {
+        "id": 72,
+        "planet_id": 6,
+        "house_id": 12,
+        "name": "Venus In 12th House",
+        "description": "Evil and wicked. \nIndolent and corpulent but happy. \nFalls in a moral sense.",
+        "created_at": "2024-08-05 18:37:46",
+        "updated_at": "2024-08-05 18:37:46"
+    },
+    {
+        "id": 73,
+        "planet_id": 8,
+        "house_id": 1,
+        "name": "Saturn In Lagna",
+        "description": "Evil and wicked. \nIf in its own sign or exaltation, then lives like a king.",
+        "created_at": "2024-08-05 18:39:39",
+        "updated_at": "2024-08-05 18:39:39"
+    },
+    {
+        "id": 74,
+        "planet_id": 8,
+        "house_id": 2,
+        "name": "Saturn In 2nd House",
+        "description": "Will enjoy material benefits. \nUngainly movements. \nLoss of income. \nMore than one marriage.",
+        "created_at": "2024-08-05 18:42:16",
+        "updated_at": "2024-08-05 18:42:16"
+    },
+    {
+        "id": 75,
+        "planet_id": 8,
+        "house_id": 3,
+        "name": "Saturn In 3rd House",
+        "description": "Courageous, generous, and intelligent. \nDanger to siblings. \nSuffer from ear ailments.",
+        "created_at": "2024-08-05 18:44:48",
+        "updated_at": "2024-08-05 18:44:48"
+    },
+    {
+        "id": 76,
+        "planet_id": 8,
+        "house_id": 4,
+        "name": "Satrun In 4th House",
+        "description": "Discomfort and danger to mother. \nSuffers heart disease. \nDevoid of wealth, conveyance, and relatives.",
+        "created_at": "2024-08-05 18:49:16",
+        "updated_at": "2024-08-05 18:49:16"
+    },
+    {
+        "id": 77,
+        "planet_id": 8,
+        "house_id": 5,
+        "name": "Saturn In 5th House",
+        "description": "Bereft of happiness and friends. \nIntelligent and kind. \nDiseased children and delay in marriage.",
+        "created_at": "2024-08-05 18:50:40",
+        "updated_at": "2024-08-05 18:50:40"
+    },
+    {
+        "id": 78,
+        "planet_id": 8,
+        "house_id": 6,
+        "name": "Saturn in 6th House",
+        "description": "Good looking and licentious. \nMore debts and diseases. \nCourageous and quarrelsome.",
+        "created_at": "2024-08-05 18:52:16",
+        "updated_at": "2024-08-05 18:52:16"
+    },
+    {
+        "id": 79,
+        "planet_id": 8,
+        "house_id": 7,
+        "name": "Saturn In 7th House",
+        "description": "Ill health and loss of wife. \nBereft of wealth. \nBad relationships and will be mean.",
+        "created_at": "2024-08-05 18:53:51",
+        "updated_at": "2024-08-05 18:53:51"
+    },
+    {
+        "id": 80,
+        "planet_id": 8,
+        "house_id": 8,
+        "name": "Saturn in 8th House",
+        "description": "Has a long life but diseased. \nWill fail in undertakings.",
+        "created_at": "2024-08-05 18:55:42",
+        "updated_at": "2024-08-05 18:55:42"
+    },
+    {
+        "id": 81,
+        "planet_id": 8,
+        "house_id": 9,
+        "name": "Saturn In 9th House",
+        "description": "Devoid of religious thinking. \nPoor, miserly, and not respected. \nFew children",
+        "created_at": "2024-08-05 18:57:07",
+        "updated_at": "2024-08-05 18:57:07"
+    },
+    {
+        "id": 82,
+        "planet_id": 8,
+        "house_id": 10,
+        "name": "Saturn In 10th house",
+        "description": "Learned with wealth. \nReligious and educated. \nValorous and leader of a group or city.",
+        "created_at": "2024-08-05 19:08:16",
+        "updated_at": "2024-08-05 19:08:16"
+    },
+    {
+        "id": 83,
+        "planet_id": 8,
+        "house_id": 11,
+        "name": "Saturn In 11th House",
+        "description": "Has a long life. \nLearned gains. \nRich and courageous",
+        "created_at": "2024-08-05 19:09:51",
+        "updated_at": "2024-08-05 19:09:51"
+    },
+    {
+        "id": 84,
+        "planet_id": 8,
+        "house_id": 12,
+        "name": "Saturn In 12th House",
+        "description": "Sickness and poverty. \nFalls in a moral sense and distressed. \nDefective eye sight and unkind.",
+        "created_at": "2024-08-05 19:12:39",
+        "updated_at": "2024-08-05 19:12:39"
+    },
+    {
+        "id": 85,
+        "planet_id": 4,
+        "house_id": 1,
+        "name": "Rahu In Lagna",
+        "description": "Delayed marriage and childlessness. \nCourageous but might suffer from health issues.",
+        "created_at": "2024-08-05 19:14:35",
+        "updated_at": "2024-08-05 19:14:35"
+    },
+    {
+        "id": 86,
+        "planet_id": 4,
+        "house_id": 2,
+        "name": "Rahu In 2nd House",
+        "description": "Poor eyesight, short-tempered, and multiple marriages.",
+        "created_at": "2024-08-05 19:15:29",
+        "updated_at": "2024-08-05 19:15:29"
+    },
+    {
+        "id": 87,
+        "planet_id": 4,
+        "house_id": 3,
+        "name": "Rahu In 3rd House",
+        "description": "Rich and courageous. \nFew children. \nMany siblings.",
+        "created_at": "2024-08-05 19:16:57",
+        "updated_at": "2024-08-05 19:16:57"
+    },
+    {
+        "id": 88,
+        "planet_id": 4,
+        "house_id": 4,
+        "name": "Rahu In 4th House",
+        "description": "Break in education. \nAdept in foreign language.",
+        "created_at": "2024-08-05 19:18:12",
+        "updated_at": "2024-08-05 19:18:12"
+    },
+    {
+        "id": 89,
+        "planet_id": 4,
+        "house_id": 5,
+        "name": "Rahu In 5th House",
+        "description": "Delayed children. \nInterested in occult and mystic subjects.",
+        "created_at": "2024-08-05 19:24:35",
+        "updated_at": "2024-08-05 19:24:35"
+    },
+    {
+        "id": 90,
+        "planet_id": 4,
+        "house_id": 6,
+        "name": "Rahu In 6th House",
+        "description": "Without enemies. \nMay contract contagious diseases. \nUndesirable sexual preferences",
+        "created_at": "2024-08-05 19:26:29",
+        "updated_at": "2024-08-05 19:26:29"
+    },
+    {
+        "id": 91,
+        "planet_id": 4,
+        "house_id": 7,
+        "name": "Rahu in 7th House",
+        "description": "Suffers from diseases. \nMultiple marriages. \nNot good for spouse.",
+        "created_at": "2024-08-05 19:27:46",
+        "updated_at": "2024-08-05 19:27:46"
+    },
+    {
+        "id": 92,
+        "planet_id": 4,
+        "house_id": 8,
+        "name": "Rahu In 8th House",
+        "description": "Aggressive and quarrelsome. \nDoubtful character. \nDanger to life in early years.",
+        "created_at": "2024-08-05 19:29:20",
+        "updated_at": "2024-08-05 19:29:20"
+    },
+    {
+        "id": 93,
+        "planet_id": 4,
+        "house_id": 9,
+        "name": "Rahu in 9th House",
+        "description": "Distressed father and few progeny.",
+        "created_at": "2024-08-05 19:30:19",
+        "updated_at": "2024-08-05 19:30:19"
+    },
+    {
+        "id": 94,
+        "planet_id": 4,
+        "house_id": 10,
+        "name": "Rahu In 10th House",
+        "description": "Danger to partner. \nEnjoys life in full. \nSuffers from intestinal disorders. \nWealthy and authoritative.",
+        "created_at": "2024-08-05 19:32:16",
+        "updated_at": "2024-08-05 19:32:16"
+    },
+    {
+        "id": 95,
+        "planet_id": 4,
+        "house_id": 11,
+        "name": "Rahu in 11th House",
+        "description": "Many siblings. \nLucky and fortunate.",
+        "created_at": "2024-08-05 19:33:42",
+        "updated_at": "2024-08-05 19:33:42"
+    },
+    {
+        "id": 96,
+        "planet_id": 4,
+        "house_id": 12,
+        "name": "Rahu in 12th House",
+        "description": "Fewer children and unhappy family life.\nLoss of money.",
+        "created_at": "2024-08-05 19:34:56",
+        "updated_at": "2024-08-05 19:34:56"
+    },
+    {
+        "id": 97,
+        "planet_id": 7,
+        "house_id": 1,
+        "name": "Ketu In Lagna",
+        "description": "Defective arms. \nPleasure-loving. \nIntelligent",
+        "created_at": "2024-08-05 19:36:21",
+        "updated_at": "2024-08-05 19:36:21"
+    },
+    {
+        "id": 98,
+        "planet_id": 7,
+        "house_id": 2,
+        "name": "Ketu In 2nd House",
+        "description": "Eloquent but short-tempered. \nBreak in education.",
+        "created_at": "2024-08-05 19:37:26",
+        "updated_at": "2024-08-05 19:37:26"
+    },
+    {
+        "id": 99,
+        "planet_id": 7,
+        "house_id": 3,
+        "name": "Ketu In 3rd House",
+        "description": "Enjoys status. \nWealthy. \nLoss of siblings.",
+        "created_at": "2024-08-05 19:38:34",
+        "updated_at": "2024-08-05 19:38:34"
+    },
+    {
+        "id": 100,
+        "planet_id": 7,
+        "house_id": 4,
+        "name": "Ketu In 4th House",
+        "description": "Danger from poisonous things. \nMother suffers from health issues.",
+        "created_at": "2024-08-05 19:39:31",
+        "updated_at": "2024-08-05 19:39:31"
+    },
+    {
+        "id": 101,
+        "planet_id": 7,
+        "house_id": 5,
+        "name": "Ketu In 5th House",
+        "description": "Mystic and occult interest. \nFemale children.",
+        "created_at": "2024-08-05 19:40:44",
+        "updated_at": "2024-08-05 19:40:44"
+    },
+    {
+        "id": 102,
+        "planet_id": 7,
+        "house_id": 6,
+        "name": "Ketu In 6th House",
+        "description": "Doubtful character. \nSuccess in the later part of the life. \n​Attracted towards the opposite sex.",
+        "created_at": "2024-08-05 19:42:38",
+        "updated_at": "2024-08-05 19:42:38"
+    },
+    {
+        "id": 103,
+        "planet_id": 7,
+        "house_id": 7,
+        "name": "Ketu In 7th House",
+        "description": "Passionate and sickly spouse. \nMarried life is a big suspect.",
+        "created_at": "2024-08-05 19:44:19",
+        "updated_at": "2024-08-05 19:44:19"
+    },
+    {
+        "id": 104,
+        "planet_id": 7,
+        "house_id": 8,
+        "name": "Ketu In 8th House",
+        "description": "Healthy but dull-headed. \nPoor eye sight. \nAggressive and quarrelsome.",
+        "created_at": "2024-08-05 19:46:10",
+        "updated_at": "2024-08-05 19:46:10"
+    },
+    {
+        "id": 105,
+        "planet_id": 7,
+        "house_id": 9,
+        "name": "Ketu In 9th House",
+        "description": "Loss of eye sight. \nBig family.",
+        "created_at": "2024-08-05 19:47:35",
+        "updated_at": "2024-08-05 19:47:35"
+    },
+    {
+        "id": 106,
+        "planet_id": 7,
+        "house_id": 10,
+        "name": "Ketu In 10th House",
+        "description": "Comfort and happiness. \nReligious and righteous.",
+        "created_at": "2024-08-05 19:48:31",
+        "updated_at": "2024-08-05 19:48:31"
+    },
+    {
+        "id": 107,
+        "planet_id": 7,
+        "house_id": 11,
+        "name": "Ketu In 11th House",
+        "description": "Affiliation to kith and kin. \nIntelligent and respectable.",
+        "created_at": "2024-08-05 19:49:50",
+        "updated_at": "2024-08-05 19:49:50"
+    },
+    {
+        "id": 108,
+        "planet_id": 7,
+        "house_id": 12,
+        "name": "Ketu In 12th House",
+        "description": "Will attain Moksha, indicates an evolved soul. \nLives abroad.\nFrequent traveler.",
+        "created_at": "2024-08-05 19:51:05",
+        "updated_at": "2024-08-05 19:51:05"
+    }
+]

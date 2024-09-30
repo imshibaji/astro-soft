@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "rashi_id": 1,
+        "planet_id": 9,
+        "name": "Self",
+        "description": "We have already seen that it stands for the True self and appearance. It is also referred to as the house of Self.",
+        "created_at": "2024-08-31 16:12:38",
+        "updated_at": "2024-08-31 16:12:38"
+    },
+    {
+        "id": 2,
+        "rashi_id": 2,
+        "planet_id": 6,
+        "name": "Wealth",
+        "description": "Income, family, primary education, and the promises that one keeps. It represents the comforts related to the first house.",
+        "created_at": "2024-08-31 16:12:38",
+        "updated_at": "2024-08-31 16:12:38"
+    },
+    {
+        "id": 3,
+        "rashi_id": 3,
+        "planet_id": 5,
+        "name": "Efforts",
+        "description": "Courage, energy levels, and younger brother. It includes the courage to face problems.",
+        "created_at": "2024-08-31 16:12:38",
+        "updated_at": "2024-08-31 16:12:38"
+    },
+    {
+        "id": 4,
+        "rashi_id": 4,
+        "planet_id": 2,
+        "name": "Family",
+        "description": "Education, mother, your house, vehicles, and comfort levels. It signifies home and family.",
+        "created_at": "2024-08-31 16:12:38",
+        "updated_at": "2024-08-31 16:12:38"
+    },
+    {
+        "id": 5,
+        "rashi_id": 5,
+        "planet_id": 1,
+        "name": "Kids",
+        "description": "Children, intelligence, and karmic effects in this birth. It talks about art, culture, and the enjoyments and hobbies of people. It holds in account everyday responsibilities.",
+        "created_at": "2024-08-31 16:12:38",
+        "updated_at": "2024-08-31 16:12:38"
+    },
+    {
+        "id": 6,
+        "rashi_id": 6,
+        "planet_id": 5,
+        "name": "Job, Debts and disease",
+        "description": "Debts and disease. It signifies the difficulties one goes through at an early age of life.",
+        "created_at": "2024-08-31 16:12:38",
+        "updated_at": "2024-08-31 16:12:38"
+    },
+    {
+        "id": 7,
+        "rashi_id": 7,
+        "planet_id": 6,
+        "name": "Spouse, Partner, Business",
+        "description": "Spouse, partner in business, and relationships. It gives the information about the individual's relationship with other people.",
+        "created_at": "2024-08-31 16:12:38",
+        "updated_at": "2024-08-31 16:12:38"
+    },
+    {
+        "id": 8,
+        "rashi_id": 8,
+        "planet_id": 9,
+        "name": "Obsession, Longevity, Sudden Downfall",
+        "description": "Longevity, sudden downfall, secrets in life, litigation, and imprisonment.",
+        "created_at": "2024-08-31 16:12:38",
+        "updated_at": "2024-08-31 16:12:38"
+    },
+    {
+        "id": 9,
+        "rashi_id": 9,
+        "planet_id": 3,
+        "name": "Luck",
+        "description": "Bhagyasthan, father, higher studies, thinking ability, and good deeds. It signifies the philosophical and the learning side of the individual.",
+        "created_at": "2024-08-31 16:12:38",
+        "updated_at": "2024-08-31 16:12:38"
+    },
+    {
+        "id": 10,
+        "rashi_id": 10,
+        "planet_id": 8,
+        "name": "Action Job",
+        "description": "Karmasthan, profession, and career. It is a good placement for public life and profession.",
+        "created_at": "2024-08-31 16:12:38",
+        "updated_at": "2024-08-31 16:12:38"
+    },
+    {
+        "id": 11,
+        "rashi_id": 11,
+        "planet_id": 8,
+        "name": "Support",
+        "description": "House of profits, elder brother, and second marriage. It signifies social networking and wish fulfilment of an individual.",
+        "created_at": "2024-08-31 16:12:38",
+        "updated_at": "2024-08-31 16:12:38"
+    },
+    {
+        "id": 12,
+        "rashi_id": 12,
+        "planet_id": 3,
+        "name": "Expense",
+        "description": "House of expenditure, death, moksha, sorrows, incarceration, and loneliness. It also signifies the subconscious of an individual.",
+        "created_at": "2024-08-31 16:12:38",
+        "updated_at": "2024-08-31 16:12:38"
+    }
+]
