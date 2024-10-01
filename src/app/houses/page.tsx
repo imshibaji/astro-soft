@@ -3,6 +3,13 @@ import { DataTable } from "@/components/ui/DataTable";
 import houseDatas from "@/data/houses.json";
 import planetData from "@/data/planets.json";
 import rashiData from "@/data/rashis.json";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+    title: "Houses - AstroSoft",
+    description: "Generated Bhava Calculator by create next app",
+    keywords: ["Astro", "Next.js", "Tailwind CSS", "Bhava Calculator"],
+}
 
 const datas = houseDatas.map((data) => {
     return {
@@ -16,7 +23,7 @@ export default function Houses() {
 
     return (
         <Container>
-            <DataTable title="Houses Data"
+            <DataTable title="Houses"
                 url="/houses"
                 // action={{
                 //     create: false,

@@ -31,30 +31,36 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
         suppressHydrationWarning={true}
       >
-        <NavBar logo="/logo.svg" title="Astro" menus={[
+        <NavBar logo="/logo.svg" title="AstroSoft" menus={[
           {
             name: "Home",
             link: "/",
           },
           {
-            name: "Nakshatras",
-            link: "/nakshatras",
-          },
-          {
-            name: "Rashis",
-            link: "/rashis",
-          },
-          {
-            name: "Planets",
-            link: "/planets",
+            name: "Core Concepts",
+            link: "/core-concepts",
+            children: [
+              {
+                name: "Nakshatras",
+                link: "/nakshatras",
+              },
+              {
+                name: "Planets",
+                link: "/planets",
+              },
+              {
+                name: "Rashis",
+                link: "/rashis",
+              },
+              {
+                name: "Houses",
+                link: "/houses",
+              },
+            ]
           },
           {
             name: "Planet Moves",
             link: "/planet-moves",
-          },
-          {
-            name: "Houses",
-            link: "/houses",
           },
           {
             name: "House Rashi Moves",

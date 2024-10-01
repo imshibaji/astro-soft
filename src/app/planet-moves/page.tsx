@@ -3,6 +3,13 @@ import { DataTable } from "@/components/ui/DataTable";
 import planetModesDatas from "@/data/planet_moves.json";
 import planetDatas from "@/data/planets.json";
 import rashiData from "@/data/rashis.json";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+    title: "Planet Moves - AstroSoft",
+    description: "Generated Bhava Calculator by create next app",
+    keywords: ["Astro", "Next.js", "Tailwind CSS", "Bhava Calculator"],
+}
 
 
 const datas = planetModesDatas.map((data) => {

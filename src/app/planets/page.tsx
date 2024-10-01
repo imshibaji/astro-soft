@@ -1,12 +1,19 @@
 import { Container } from "@/components/ui/Container";
 import { DataTable } from "@/components/ui/DataTable";
 import datas from "@/data/planets.json";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+    title: "Planets - AstroSoft",
+    description: "Generated Bhava Calculator by create next app",
+    keywords: ["Astro", "Next.js", "Tailwind CSS", "Bhava Calculator"],
+}
 
 export default function Planets(){
 
     return (
         <Container>
-            <DataTable title="Planets Data"
+            <DataTable title="Planets"
                 // action={{
                 //     create: false,
                 //     view: true,

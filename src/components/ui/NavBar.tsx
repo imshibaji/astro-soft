@@ -1,6 +1,7 @@
-
+"use client";
 import Image from "next/image";
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 
 export interface Menu {
     name: string;
@@ -11,7 +12,7 @@ export interface Menu {
 
 export default function NavBar({ title, menus, logo }: { title: string, menus: Menu[], logo?: string }) {
     return (
-        <header className="relative flex flex-wrap sm:justify-start sm:flex-nowrap w-full bg-blue-200 text-sm py-3 dark:bg-neutral-800">
+        <header className="relative flex flex-wrap sm:justify-start sm:flex-nowrap w-full bg-orange-600 text-sm py-3 dark:bg-neutral-800">
             <nav className="container mx-auto px-4 sm:flex sm:items-center sm:justify-between">
                 <div className="flex items-center justify-between">
                     <Brand title={title} icon={logo} />
@@ -34,11 +35,11 @@ export default function NavBar({ title, menus, logo }: { title: string, menus: M
 export function Brand({ title, icon }: { title: string, icon?: string }) {
     return (
         <Link
-            className="flex-none text-xl font-semibold dark:text-white focus:outline-none focus:opacity-80"
+            className="flex-none text-xl font-semibold text-white focus:outline-none focus:opacity-80"
             href="/" aria-label="Brand">
             {
                 icon ? 
-                <span className="inline-flex items-center gap-x-2 text-xl font-semibold dark:text-white">
+                <span className="inline-flex items-center gap-x-2 text-xl font-semibold">
                     <Image className="w-10 h-auto" src={icon} alt={title} width={32} height={32} />
                     {title}
                 </span> : title
@@ -60,9 +61,10 @@ export function ToggleButton() {
 }
 
 export function NavItem({ menu }: { menu: Menu }) {
+    const pathname = usePathname();
     return (
         <Link
-            className="font-medium text-gray-600 hover:text-blue-800 focus:outline-none focus:text-blue-800 dark:text-neutral-400 dark:hover:text-neutral-500 dark:focus:text-neutral-500"
+            className={"font-bold text-white hover:text-gray-200 focus:outline-none focus:text-yellow-200 dark:text-neutral-400 dark:hover:text-neutral-500 dark:focus:text-neutral-500"+ (pathname === menu.link ? " text-yellow-200" : "")}
             href={menu.link}
         >
             {menu.name}
@@ -73,11 +75,11 @@ export function NavItem({ menu }: { menu: Menu }) {
 export function NavDropdown({ menu }: { menu: Menu }) {
     return (
         <div className="hs-dropdown [--strategy:static] sm:[--strategy:fixed] [--adaptive:none] ">
-            <button id="hs-navbar-example-dropdown" type="button" className="hs-dropdown-toggle flex items-center w-full text-gray-600 hover:text-blue-800 focus:outline-none focus:text-blue-800 font-medium dark:text-neutral-400 dark:hover:text-neutral-500 dark:focus:text-neutral-500" aria-haspopup="menu" aria-expanded="false" aria-label="Mega Menu">
+            <button id="hs-navbar-example-dropdown" type="button" className="hs-dropdown-toggle flex items-center w-full text-white hover:text-gray-200 focus:outline-none focus:text-yellow-200 font-bold dark:text-neutral-400 dark:hover:text-neutral-500 dark:focus:text-neutral-500" aria-haspopup="menu" aria-expanded="false" aria-label="Mega Menu">
                 <span>{menu.name}</span>
                 <svg className="hs-dropdown-open:-rotate-180 sm:hs-dropdown-open:rotate-0 duration-300 ms-1 shrink-0 size-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="m6 9 6 6 6-6" /></svg>
             </button>
-            <div className="hs-dropdown-menu transition-[opacity,margin] ease-in-out duration-[150ms] hs-dropdown-open:opacity-100 opacity-0 sm:w-48 z-10 bg-white sm:shadow-md rounded-lg p-1 space-y-1 dark:bg-neutral-800 sm:dark:border dark:border-neutral-700 dark:divide-neutral-700 before:absolute top-full sm:border before:-top-5 before:start-0 before:w-full before:h-5 hidden" role="menu" aria-orientation="vertical" aria-labelledby="hs-navbar-example-dropdown">
+            <div className="hs-dropdown-menu transition-[opacity,margin] ease-in-out duration-[150ms] hs-dropdown-open:opacity-100 opacity-0 sm:w-48 z-50 bg-white sm:shadow-md rounded-lg p-1 space-y-1 dark:bg-neutral-800 sm:dark:border dark:border-neutral-700 dark:divide-neutral-700 before:absolute top-full sm:border before:-top-5 before:start-0 before:w-full before:h-5 hidden" role="menu" aria-orientation="vertical" aria-labelledby="hs-navbar-example-dropdown">
                 {
                     menu.children?.map((m, i) => m.children ?
                         <DropdownMenu key={i} menu={m} /> : <SubMenu key={i} menu={m} />)
@@ -106,7 +108,7 @@ export function DropdownMenu({ menu }: { menu: Menu }) {
                 <svg className="hs-dropdown-open:-rotate-180 sm:hs-dropdown-open:-rotate-90 sm:-rotate-90 duration-300 ms-2 shrink-0 size-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="m6 9 6 6 6-6" /></svg>
             </button>
 
-            <div className="hs-dropdown-menu transition-[opacity,margin] ease-in-out duration-[150ms] hs-dropdown-open:opacity-100 opacity-0 sm:w-48 hidden z-10 sm:mt-2 bg-white sm:shadow-md rounded-lg dark:bg-neutral-800 sm:dark:border dark:border-neutral-700 dark:divide-neutral-700 before:absolute sm:border before:-end-5 before:top-0 before:h-full before:w-5 sm:!mx-[10px] top-0 end-full" role="menu" aria-orientation="vertical" aria-labelledby="hs-navbar-example-dropdown-sub">
+            <div className="hs-dropdown-menu transition-[opacity,margin] ease-in-out duration-[150ms] hs-dropdown-open:opacity-100 opacity-0 sm:w-48 hidden z-50 sm:mt-2 bg-white sm:shadow-md rounded-lg dark:bg-neutral-800 sm:dark:border dark:border-neutral-700 dark:divide-neutral-700 before:absolute sm:border before:-end-5 before:top-0 before:h-full before:w-5 sm:!mx-[10px] top-0 end-full" role="menu" aria-orientation="vertical" aria-labelledby="hs-navbar-example-dropdown-sub">
                 <div className="p-1 space-y-1">
                     {
                         menu.children?.map((mm, ii) => <SubMenu key={ii} menu={mm} />)
