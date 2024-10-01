@@ -39,7 +39,8 @@ export async function getUserByCredentials(email: string, password: string) {
 
 export async function updateUserPassword(user: User, password: string) {
     if(!AppDataSource.isInitialized) await AppDataSource.initialize();
-    user.password = encrypt(password);
+    // user.password = encrypt(password);
+    user.password = password;
     user.updatedAt = new Date();
     await UserRepository.save(user);
     return user;

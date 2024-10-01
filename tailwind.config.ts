@@ -9,7 +9,7 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      customForms: theme => ({
+      customForms: () => ({
         default: {
           checkbox: {
             '&:indeterminate': {
