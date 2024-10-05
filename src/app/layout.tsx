@@ -56,15 +56,15 @@ export default function RootLayout({
                 name: "Houses",
                 link: "/houses",
               },
+              {
+                name: "Planet Moves",
+                link: "/planet-moves",
+              },
+              {
+                name: "House Rashi Moves",
+                link: "/house-rashi-moves",
+              },
             ]
-          },
-          {
-            name: "Planet Moves",
-            link: "/planet-moves",
-          },
-          {
-            name: "House Rashi Moves",
-            link: "/house-rashi-moves",
           },
         ]} />
         {children}

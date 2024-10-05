@@ -13,26 +13,26 @@ Bhava Chart Calculator - By Brian Conrad<br>
   <div align="left"><table border="1" width="69%" height="124" style="font-family: sans-serif; font-size: larger">
     <tr>
       <td width="100%" height="23" colspan="2">
-	  Month: <input type="text" name="Month" size="2" value="8" tabindex="1"> 
-	  Day: <input type="text" name="Day" size="2" maxlength="2" value="15" tabindex="2"> 
-	  Year: <input type="text" name="Year" size="4" value="1947" tabindex="3" maxlength="4"> </td>
+	  Month: <input type="text" name="Month" size="2" value="11" tabindex="1"> 
+	  Day: <input type="text" name="Day" size="2" maxlength="2" value="10" tabindex="2"> 
+	  Year: <input type="text" name="Year" size="4" value="1986" tabindex="3" maxlength="4"> </td>
     </tr>
     <tr>
       <td width="100%" height="23" colspan="2">
-	  Time:&nbsp; <input type="text" name="Hour" size="2" value="0" maxlength="2" tabindex="4"> : 
-	  <input type="text" name="Min" size="2" value="00" maxlength="2" tabindex="5">
-	  Zone:<input type="text" name="ZHour" size="2" value="0" maxlength="2" tabindex="6"> : 
-	  <input type="text" name="ZMin" size="2" value="0" maxlength="2" tabindex="7">&nbsp;
+	  Time:&nbsp; <input type="text" name="Hour" size="2" value="20" maxlength="2" tabindex="4"> : 
+	  <input type="text" name="Min" size="2" value="5" maxlength="2" tabindex="5">
+	  Zone:<input type="text" name="ZHour" size="2" value="5" maxlength="2" tabindex="6"> : 
+	  <input type="text" name="ZMin" size="2" value="30" maxlength="2" tabindex="7">&nbsp;
 	  <input type="checkbox" name="DST" value="DST" tabindex="8"> DST</td>
     </tr>
     <tr>
       <td width="48%" height="29">Longitude: 
-	  <input type="text" name="LonDeg" size="3" value="77" maxlength="3" tabindex="9"> : 
-	  <input type="text" name="LonMin" size="2" value="13" maxlength="2" tabindex="10">
-      <input type="checkbox" name="East" value="East" tabindex="11">East</td>
+	  <input type="text" name="LonDeg" size="3" value="88" maxlength="3" tabindex="9"> : 
+	  <input type="text" name="LonMin" size="2" value="36" maxlength="2" tabindex="10">
+      <input type="checkbox" name="East" value="East" checked tabindex="11">East</td>
       <td width="52%" height="29">Latitude: 
-	  <input type="text" name="LatDeg" size="2" value="28" maxlength="2" tabindex="12"> : 
-	  <input type="text" name="LatMin" size="2" value="29" maxlength="2" tabindex="13">
+	  <input type="text" name="LatDeg" size="2" value="22" maxlength="2" tabindex="12"> : 
+	  <input type="text" name="LatMin" size="2" value="57" maxlength="2" tabindex="13">
 	  <input type="checkbox" name="South" value="South" tabindex="14">South</td>
     </tr>
     <tr>
@@ -210,7 +210,6 @@ function calculate()
 
 	// calculate bhavas as per 
 	// Deepak Kapoor's "Astronomy and Mathematical Astrology" - 1997 Ranjan Pub.
- 
 	var hs = new Array(24);
 	x = as - mc;
 	if(x < 0.0)x += 360.0;
