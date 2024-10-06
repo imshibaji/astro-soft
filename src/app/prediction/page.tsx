@@ -1,17 +1,14 @@
-/* eslint-disable @typescript-eslint/no-explicit-any */
 'use client';
 import { Card, CardBody } from "@/components/ui/Card";
 import { Container } from "@/components/ui/Container";
 import { ChartConfigData } from "@/utils/AstroApi";
 import { useEffect, useState } from "react";
 
-import ApiData from "../../data/api_data.json";
 import { PlanetsInfo } from "@/components/common/PlanetsInfo";
 import HoroscopeChart from "@/components/common/HoroscopeChart";
 import FloatingInput from "@/components/ui/FloatingInput";
-import { AstroInfoResponse } from "@/types/AstroApi";
+// import { AstroInfoResponse } from "@/types/AstroApi";
 import PredictionTable from "@/components/common/PredictionTable";
-import { Tab } from "@/components/ui/Tab";
 
 
 export default function Prediction({searchParams}: {searchParams: {[key: string]: string}}) {
@@ -58,7 +55,9 @@ export default function Prediction({searchParams}: {searchParams: {[key: string]
             setReload(false);
         }
     }, [params, reload, inputs]);
-    const [planets, setPlanets] = useState<AstroInfoResponse[]>([]);
+    const [planets, setPlanets] = useState<any[]>([]);
+    // console.log(planets);
+    
     return (
        <>
            <Container>
@@ -78,16 +77,17 @@ export default function Prediction({searchParams}: {searchParams: {[key: string]
                         Location: {inputs.latitude}, {inputs.longitude}, 
                         TimeZone: {inputs.timezone}.
                     </p>
-                    {/* <div className="flex flex-col md:flex-row gap-4 justify-center items-center my-5">
+                    <div className="flex flex-col md:flex-row gap-4 justify-center items-center my-5">
                         <HoroscopeChart title="Horoscope Chart" path="/horoscope-chart-svg-code" inputs={inputs} />
                         <HoroscopeChart title="Navamsa Chart" path="/navamsa-chart-svg-code" inputs={inputs} />
-                        <PlanetsInfo path="/planets/extended" inputs={inputs} onOutput={(data: AstroInfoResponse[]) => {
-                            console.log(data);
-                            setPlanets(data);
-                        }} />
-                    </div> */}
+                        <PlanetsInfo path="/planets/extended" inputs={inputs} onOutput={setPlanets} />
+                    </div>
                     <div className="justify-center items-center my-5">
-                        <PredictionTable dataInput={ApiData.output} />
+                        {
+                            planets.output ? <PredictionTable planetsInfo={planets.output} /> 
+                            : <p className="text-xl w-[400px] h-[400px] flex justify-center items-center">Loading...</p>
+                        }
+                        {/* <PredictionTable planetsInfo={ApiData.output} /> */}
                     </div>
                 </CardBody> 
                </Card>

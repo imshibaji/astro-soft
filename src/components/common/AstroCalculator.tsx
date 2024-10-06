@@ -77,8 +77,8 @@ export function AstroApiDisplay({inputsData, chart1, chart2, summary}: {
                 <div className="text-left">
                     <p>Horoscope: Birthday of {inputsData!.date} {inputsData!.month} {inputsData!.year}</p>
                     {summary ? <div>
-                        <p>Lagna Rashi: {summary.Ascendant.zodiac_sign_name}</p>
-                        <p>Moon Rashi: {summary.Moon.zodiac_sign_name}</p>
+                        <p>Lagna Rashi: {summary!.output.Ascendant.zodiac_sign_name}</p>
+                        <p>Moon Rashi: {summary!.output.Moon.zodiac_sign_name}</p>
                     </div>: null}
                 </div>
               </div>

@@ -1,3 +1,5 @@
+import { useEffect } from "react";
+
 interface AccordionData {
     title: string,
     content: React.ReactNode
@@ -33,8 +35,15 @@ export function DataAccordion({ datas }: { datas: AccordionData[] }) {
 }
 
 export function Accordion({ children }: { children: React.ReactNode }) {
+    useEffect(() => {
+        async function init() {
+            const HSAccordion = (await import('@preline/accordion')).default;
+            HSAccordion.autoInit();
+        }
+        init();
+    }, []);
     return (<>
-        <div className="hs-accordion-group border border-gray-200 dark:border-neutral-700 rounded-lg overflow-hidden">
+        <div id="accordion" className="hs-accordion-group border border-gray-200 dark:border-neutral-700 rounded-lg overflow-hidden">
            { children }
         </div>
     </>);
@@ -50,7 +59,7 @@ export function AccordionBody({ children }: { children: React.ReactNode }) {
 
 export function AccordionButton({ children }: { children: React.ReactNode }) {
     return (
-        <button className="pl-4 hs-accordion-toggle hs-accordion-active:text-blue-600 py-3 inline-flex items-center gap-x-3 w-full font-semibold text-start text-gray-800 hover:text-gray-500 focus:outline-none focus:text-gray-500 rounded-lg disabled:opacity-50 disabled:pointer-events-none dark:hs-accordion-active:text-blue-500 dark:text-neutral-200 dark:hover:text-neutral-400 dark:focus:text-neutral-400">
+        <button className="hs-accordion-toggle pl-4 hs-accordion-active:text-blue-600 py-3 inline-flex items-center gap-x-3 w-full font-semibold text-start text-gray-800 hover:text-gray-500 focus:outline-none focus:text-gray-500 rounded-lg disabled:opacity-50 disabled:pointer-events-none dark:hs-accordion-active:text-blue-500 dark:text-neutral-200 dark:hover:text-neutral-400 dark:focus:text-neutral-400">
             <svg className="hs-accordion-active:hidden block size-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                 <path d="M5 12h14"></path>
                 <path d="M12 5v14"></path>
@@ -63,9 +72,9 @@ export function AccordionButton({ children }: { children: React.ReactNode }) {
     )
 }
 
-export function AccordionContent({children }: { children: React.ReactNode }) {
+export function AccordionContent({children}: { children: React.ReactNode }) {
     return (
-        <div className="hs-accordion-content hidden w-full overflow-hidden transition-[height] duration-300" role="region" aria-labelledby="hs-active-bordered-heading-one">
+        <div className="hs-accordion-content hidden w-full overflow-hidden transition-[height] duration-300" role="region">
             <div className="pb-4 px-5">
                 <div className="text-gray-800 dark:text-neutral-200">
                     { children }

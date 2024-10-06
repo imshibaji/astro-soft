@@ -26,8 +26,8 @@ const config: Config = {
     },
   },
   plugins: [
-    require('@tailwindcss/forms'),
     require('preline/plugin'),
+    require('@tailwindcss/forms'),
   ],
 };
 export default config;

@@ -11,7 +11,7 @@ const useFetch = (url: string, options: RequestInit = {}) => {
     if (loaded) return;
     const fetchData = cache(async () => {
         try {
-            const res = await fetch(url, {...options});
+            const res = await fetch(url, {...options, cache: 'force-cache'});
             if (!res.ok) {
                 throw new Error(res.statusText);
             }

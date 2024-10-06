@@ -27,7 +27,8 @@ export default function HoroscopeChart({title, path, inputs, reload = false}: {
     return (
         <div className="border p-4 flex flex-col justify-center items-center">
             <h1 className="text-2xl font-bold mb-2">{title || "Horoscope Chart"}</h1>
-            { data ? <div className="w-[400px] h-[400px]" dangerouslySetInnerHTML={{ __html: data }}></div> : <p>Loading...</p> }
+            { data ? <div className="w-[400px] h-[400px]" dangerouslySetInnerHTML={{ __html: data }}></div> 
+            : <p className="text-xl w-[400px] h-[400px] flex justify-center items-center">Loading...</p> }
         </div>
     );
 }

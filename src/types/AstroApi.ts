@@ -41,7 +41,7 @@ export interface ApiInputs {
 
   export interface AstroApiResponse {
     inputs: ApiInputs,
-    output: string | AstroInfoResponse,
+    output: AstroInfoResponse | string,
     status: string,
     message: string,
     chart1: string,
