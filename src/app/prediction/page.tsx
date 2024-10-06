@@ -7,7 +7,7 @@ import { useEffect, useState } from "react";
 import { PlanetsInfo } from "@/components/common/PlanetsInfo";
 import HoroscopeChart from "@/components/common/HoroscopeChart";
 import FloatingInput from "@/components/ui/FloatingInput";
-// import { AstroInfoResponse } from "@/types/AstroApi";
+import { AstroApiResponse } from "@/types/AstroApi";
 import PredictionTable from "@/components/common/PredictionTable";
 
 
@@ -26,7 +26,7 @@ export default function Prediction({searchParams}: {searchParams: {[key: string]
         settings: { observation_point: "geocentric", ayanamsha: "lahiri", language: "en" },
         config: { observation_point: "geocentric", ayanamsha: "lahiri", language: "en" },
         chart_config: {
-            native_name: ((params.nativeName || "Shibaji") + " " + (params.lastName || "Debnath")),
+            native_name: ((params.firstName || "Astro") + " " + (params.lastName || "Soft")),
             chart_style: params.chart_style || "north_india",  /* south_india / north_india */
             sign_number_font_color: "#A5243D", /* works for north_india chart only */
         },
@@ -55,7 +55,7 @@ export default function Prediction({searchParams}: {searchParams: {[key: string]
             setReload(false);
         }
     }, [params, reload, inputs]);
-    const [planets, setPlanets] = useState<any[]>([]);
+    const [planets, setPlanets] = useState<AstroApiResponse>({} as AstroApiResponse);
     // console.log(planets);
     
     return (

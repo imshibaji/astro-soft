@@ -1,4 +1,4 @@
-import { ApiInputs } from "@/types/AstroApi";
+import { ApiInputs, AstroApiResponse, AstroInfoResponse } from "@/types/AstroApi";
 import useFetch from "../hooks/useFetch";
 import { useEffect, useState } from "react";
 import { HouseMovesPrediction } from "./PredictionTable";
@@ -18,7 +18,8 @@ export function PlanetsInfo({ path, inputs, onOutput }: { path: string, inputs: 
     const [data, setData] = useState<any>();
     useEffect(() => {
         if (horoscope.response) {
-            setData(horoscope.response.output);
+            const resp = horoscope.response as AstroApiResponse;
+            setData(resp.output as AstroInfoResponse);
             if (onOutput) onOutput(horoscope.response);
         }
     }, [horoscope.response, horoscope, data, onOutput]);

@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
-import { ApiInputs } from "@/types/AstroApi";
+import { ApiInputs, AstroApiResponse } from "@/types/AstroApi";
 import useFetch from "../hooks/useFetch";
 import { useEffect, useState } from "react";
 
@@ -18,7 +18,8 @@ export default function HoroscopeChart({title, path, inputs, reload = false}: {
     const [data, setData] = useState<any>();
     useEffect(() => {
         if (chart.response) {
-            setData(chart.response.output);
+            const data = chart.response! as AstroApiResponse;
+            setData(data.output);
         }
         if(inputs && reload) {
             chart.reload(true);

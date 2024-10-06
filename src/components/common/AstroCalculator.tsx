@@ -4,7 +4,7 @@
 import { ApiInputsData } from "@/utils/AstroApi";
 import { ChangeEvent, Suspense, useEffect, useState } from "react";
 import FloatingInput from "../ui/FloatingInput";
-import { AstroApiResponse } from "@/types/AstroApi";
+// import { AstroApiResponse } from "@/types/AstroApi";
 import { AstroApiLoader } from "../actions/AstroApiLoader";
 
 const apiData = {
@@ -21,18 +21,18 @@ const apiData = {
 
 export default function AstroCalculator() {
     const [inputData, setInputData] = useState<ApiInputsData>(apiData);
-    const [chart1, setChart1] = useState('');
-    const [chart2, setChart2] = useState('');
-    const [infoData, setInfoData] = useState<AstroApiResponse>();
+    // const [chart1, setChart1] = useState('');
+    // const [chart2, setChart2] = useState('');
+    // const [infoData, setInfoData] = useState<AstroApiResponse>();
     const [loaded, setLoaded] = useState(false);
 
     useEffect(() => {
         try{
         if (!loaded) {
             AstroApiLoader(inputData).then(({hcData, ncData, infoData}) => {
-                setChart1(hcData.output);
-                setChart2(ncData.output);
-                setInfoData(infoData.output);
+                // setChart1(hcData.output);
+                // setChart2(ncData.output);
+                // setInfoData(infoData.output);
                 setLoaded(true);
                 console.log(hcData, ncData, infoData);
             });
@@ -49,43 +49,43 @@ export default function AstroCalculator() {
     return (
         <Suspense fallback={<div>Loading...</div>}>
             <AstroApiInputs onResult={(inputsData) => onInputChange(inputsData)} />
-            <AstroApiDisplay inputsData={apiData} chart1={chart1} chart2={chart2} summary={infoData}  />
+            {/* <AstroApiDisplay inputsData={apiData} chart1={chart1} chart2={chart2} summary={infoData}  /> */}
         </Suspense>
     )
 }
 
 
-export function AstroApiDisplay({inputsData, chart1, chart2, summary}: {
-    inputsData?: any,
-    chart1: string
-    chart2: string
-    summary?: AstroApiResponse
-}) {
-    return (
-        <div>
-            <div className="flex flex-col md:flex-row gap-4 justify-center items-start">
-              <div className="text-center p-3">
-                <h2 className="text-xl font-bold text-gray-800 dark:text-white">Horoscope Chart</h2>
-                <div className="w-[400px] h-[400px]" dangerouslySetInnerHTML={{ __html: chart1 }}/>
-              </div>
-              <div className="text-center p-3">
-                <h2 className="text-xl font-bold text-gray-800 dark:text-white">Navamsa Chart</h2>
-                <div className="w-[400px] h-[400px]" dangerouslySetInnerHTML={{ __html: chart2 }}/>
-              </div>
-              <div className="text-center p-3 w-[400px] h-[400px]">
-                <h2 className="text-xl font-bold text-gray-800 dark:text-white">Summary</h2>
-                <div className="text-left">
-                    <p>Horoscope: Birthday of {inputsData!.date} {inputsData!.month} {inputsData!.year}</p>
-                    {summary ? <div>
-                        <p>Lagna Rashi: {summary!.output.Ascendant.zodiac_sign_name}</p>
-                        <p>Moon Rashi: {summary!.output.Moon.zodiac_sign_name}</p>
-                    </div>: null}
-                </div>
-              </div>
-            </div>
-        </div>
-    );
-}
+// export function AstroApiDisplay({inputsData, chart1, chart2, summary}: {
+//     inputsData?: any,
+//     chart1: string
+//     chart2: string
+//     summary?: AstroApiResponse
+// }) {
+//     return (
+//         <div>
+//             <div className="flex flex-col md:flex-row gap-4 justify-center items-start">
+//               <div className="text-center p-3">
+//                 <h2 className="text-xl font-bold text-gray-800 dark:text-white">Horoscope Chart</h2>
+//                 <div className="w-[400px] h-[400px]" dangerouslySetInnerHTML={{ __html: chart1 }}/>
+//               </div>
+//               <div className="text-center p-3">
+//                 <h2 className="text-xl font-bold text-gray-800 dark:text-white">Navamsa Chart</h2>
+//                 <div className="w-[400px] h-[400px]" dangerouslySetInnerHTML={{ __html: chart2 }}/>
+//               </div>
+//               <div className="text-center p-3 w-[400px] h-[400px]">
+//                 <h2 className="text-xl font-bold text-gray-800 dark:text-white">Summary</h2>
+//                 <div className="text-left">
+//                     {/* <p>Horoscope: Birthday of {inputsData!.date} {inputsData!.month} {inputsData!.year}</p>
+//                     {summary ? <div>
+//                         <p>Lagna Rashi: {summary!.output.Ascendant.zodiac_sign_name}</p>
+//                         <p>Moon Rashi: {summary!.output.Moon.zodiac_sign_name}</p>
+//                     </div>: null} */}
+//                 </div>
+//               </div>
+//             </div>
+//         </div>
+//     );
+// }
 
 export function AstroApiInputs({
     onResult
