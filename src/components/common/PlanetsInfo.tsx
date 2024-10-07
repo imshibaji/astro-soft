@@ -26,11 +26,11 @@ export function PlanetsInfo({ path, inputs, onOutput }: { path: string, inputs: 
     console.log(data);
 
     return (
-        <div className="border p-4 h-[470px] w-[430px]">
+        <div className="border p-4 w-full lg:h-[470px] lg:w-[430px]">
             <h1 className="text-3xl font-bold">Bhava Prediction</h1>
             {/* <PlanetsQuickInfo horoscope={horoscope} /> */}
             {(data && data['Ascendant']) ?
-                <div className="text-left h-[390px] w-[400px] overflow-y-auto border-y mt-2">
+                <div className="text-left h-[390px] w-full lg:w-[400px] overflow-y-auto border-y mt-2">
                     <HouseMovesPrediction ascHouseId={data['Ascendant'].current_sign} />
                 </div>
                 : <p className="text-xl flex justify-center items-center">Loading...</p>}

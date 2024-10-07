@@ -30,11 +30,11 @@ export default function PredictionTable({ planetsInfo }: { planetsInfo: any }) {
     return (
         <div className="w-full text-left">
             <h1 className="text-3xl font-bold mb-3 text-center">Planets Predictions</h1>
-            {predictionInfo && predictionInfo[0] && predictionInfo[1] ? 
+            {predictionInfo && predictionInfo[0] && predictionInfo[2] ? 
             <div>
                 <h2 className="text-center text-xl font-bold text-gray-800 dark:text-neutral-300 mb-3">
                     Laga Rashi: {predictionInfo[0].zodiac_sign_name},
-                    Moon Rashi: {predictionInfo[1].zodiac_sign_name}
+                    Moon Rashi: {predictionInfo[2].zodiac_sign_name}
                 </h2>
                 <DataAccordion datas={dataBody(predictionInfo)} />
             </div>: null}
