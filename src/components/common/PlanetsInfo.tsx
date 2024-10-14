@@ -23,7 +23,7 @@ export function PlanetsInfo({ path, inputs, onOutput }: { path: string, inputs: 
             if (onOutput) onOutput(horoscope.response);
         }
     }, [horoscope.response, horoscope, data, onOutput]);
-    console.log(data);
+    // console.log(data);
 
     return (
         <div className="border p-4 w-full lg:h-[470px] lg:w-[430px]">

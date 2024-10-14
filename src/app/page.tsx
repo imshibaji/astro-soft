@@ -2,6 +2,7 @@ import { Card, CardBody, CardFooter, CardHeader } from "@/components/ui/Card";
 import { Container } from "@/components/ui/Container";
 import FloatingInput from "@/components/ui/FloatingInput";
 import FloatingSelect from "@/components/ui/FloatingSelect";
+import NumberInput from "@/components/ui/NumberInput";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -28,18 +29,18 @@ export default function Home() {
                 </div>
 
                 <div className="flex space-x-2">
-                  <FloatingInput label="Date" name="date" type="number" placeholder="Date" defaultValue="10" />
-                  <FloatingInput label="Month" name="month" type="number" placeholder="Month" defaultValue="11" />
-                  <FloatingInput label="Year" name="year" type="number" placeholder="Year" defaultValue="1986" />
+                  <NumberInput label="Date" name="date" min="1" max="31" placeholder="Date" defaultValue="10" />
+                  <NumberInput label="Month" name="month" min="1" max="12" placeholder="Month" defaultValue="11" />
+                  <NumberInput label="Year" name="year" placeholder="Year" defaultValue="1986" />
                 </div>
                 <div className="flex space-x-2">
-                  <FloatingInput label="Hour" name="hour" type="number" placeholder="Hour" defaultValue="20" />
-                  <FloatingInput label="Minute" name="minute" type="number" placeholder="Minute" defaultValue="5" />
+                  <NumberInput label="Hour" name="hour" min="0" max="23" placeholder="Hour" defaultValue="20" />
+                  <NumberInput label="Minute" name="minute" min="0" max="59" placeholder="Minute" defaultValue="5" />
                   <FloatingInput label="Time Zone" name="timeZone" type="number" placeholder="Time Zone" defaultValue="5.5" />
                 </div>
                 <div className="flex space-x-2">
-                  <FloatingInput label="Longitude" name="longitude" type="number" placeholder="Hour" defaultValue="88" />
-                  <FloatingInput label="Latitude" name="latitude" type="number" placeholder="Min" defaultValue="22" />
+                  <FloatingInput label="Latitude" name="latitude" type="text" placeholder="Latitude" defaultValue="22.5744" />
+                  <FloatingInput label="Longitude" name="longitude" type="text" placeholder="Longitude" defaultValue="88.3629" />
                   <FloatingSelect label="Chart Style" name="chart_style">
                         <option value="north_india">North India</option>
                         <option value="south_india">South India</option>

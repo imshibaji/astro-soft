@@ -29,7 +29,7 @@ export default function AstroCalculator() {
     useEffect(() => {
         try{
         if (!loaded) {
-            AstroApiLoader(inputData).then(({hcData, ncData, infoData}) => {
+            AstroApiLoader(inputData).then(({horoscopeSvgChartData: hcData, navamsaSvgChartData: ncData, horoscopeInfoData: infoData}) => {
                 // setChart1(hcData.output);
                 // setChart2(ncData.output);
                 // setInfoData(infoData.output);

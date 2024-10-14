@@ -16,7 +16,10 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "AstroSoft App",
+  title: {
+    default: "Astrology App for Astrologers",
+    template: "%s | AstroSoft",
+  },
   keywords: ["Astro", "Next.js", "Tailwind CSS", "Bhava Calculator"],
   description: "AstroSoft App created by Shibaji Debnath",
 };

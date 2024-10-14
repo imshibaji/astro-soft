@@ -15,6 +15,7 @@
         "functional_benefics": "Sun, Jupiter, Moon",
         "functional_malefics": "Mercury, Venus, Saturn",
         "functional_diedly": "Venus, Mercury, Saturn",
+        "varna": "Kashtriya",
         "created_at": "2024-08-05 11:20:58",
         "updated_at": "2024-08-05 11:20:58"
     },
@@ -34,6 +35,7 @@
         "functional_benefics": "Saturn, Mercury, Sun",
         "functional_malefics": "Moon, Jupiter",
         "functional_diedly": "Jupiter, Mars",
+        "varna": "Vaishya",
         "created_at": "2024-08-05 11:20:58",
         "updated_at": "2024-08-05 11:20:58"
     },
@@ -53,6 +55,7 @@
         "functional_benefics": "Venus",
         "functional_malefics": "Mars, Jupiter, Sun",
         "functional_diedly": "Moon, Jupiter",
+        "varna": "Shudra",
         "created_at": "2024-08-05 11:20:58",
         "updated_at": "2024-08-05 11:20:58"
     },
@@ -72,6 +75,7 @@
         "functional_benefics": "Mars, Moon, Jupiter",
         "functional_malefics": "Venus, Mercury",
         "functional_diedly": "Saturn, Mercury, Venus",
+        "varna": "Brahaman",
         "created_at": "2024-08-05 11:20:58",
         "updated_at": "2024-08-05 11:20:58"
     },
@@ -91,6 +95,7 @@
         "functional_benefics": "Mars, Sun, Jupiter",
         "functional_malefics": "Mars, Saturn, Mercury",
         "functional_diedly": "Mercury, Venus, Saturn",
+        "varna": "Kashtriya",
         "created_at": "2024-08-05 11:20:58",
         "updated_at": "2024-08-05 11:20:58"
     },
@@ -110,6 +115,7 @@
         "functional_benefics": "Venus, Saturn, Mercury",
         "functional_malefics": "Jupiter, Moon, Mars",
         "functional_diedly": "Jupiter, Mars, Moon",
+        "varna": "Vaishya",
         "created_at": "2024-08-05 11:20:58",
         "updated_at": "2024-08-05 11:20:58"
     },
@@ -129,6 +135,7 @@
         "functional_benefics": "Saturn, Mercury, Venus",
         "functional_malefics": "Sun, Mars, Jupiter",
         "functional_diedly": "Jupiter, Sun",
+        "varna": "Shudra",
         "created_at": "2024-08-05 11:20:58",
         "updated_at": "2024-08-05 11:20:58"
     },
@@ -148,6 +155,7 @@
         "functional_benefics": "Sun, Moon, Jupiter",
         "functional_malefics": "Mercury, Venus",
         "functional_diedly": "Mercury, Venus",
+        "varna": "Brahaman",
         "created_at": "2024-08-05 11:20:58",
         "updated_at": "2024-08-05 11:20:58"
     },
@@ -167,6 +175,7 @@
         "functional_benefics": "Sun, Mars",
         "functional_malefics": "Venus, Mercury",
         "functional_diedly": "Mercury, Venus, Saturn",
+        "varna": "Kashtriya",
         "created_at": "2024-08-05 11:20:58",
         "updated_at": "2024-08-05 11:20:58"
     },
@@ -186,6 +195,7 @@
         "functional_benefics": "Mercury, Saturn, Venus",
         "functional_malefics": "Jupiter, Sun, Moon",
         "functional_diedly": "Moon, Jupiter",
+        "varna": "Vaishya",
         "created_at": "2024-08-05 11:20:58",
         "updated_at": "2024-08-05 11:20:58"
     },
@@ -205,6 +215,7 @@
         "functional_benefics": "Venus, Mercury, Saturn",
         "functional_malefics": "Moon, Mars, Jupiter",
         "functional_diedly": "Jupiter, Moon",
+        "varna": "Shudra",
         "created_at": "2024-08-05 11:20:58",
         "updated_at": "2024-08-05 11:20:58"
     },
@@ -224,6 +235,7 @@
         "functional_benefics": "Moon, Mars",
         "functional_malefics": "Sun, Mercury, Venus, Saturn",
         "functional_diedly": "Sun, Mercury, Saturn, Venus",
+        "varna": "Brahaman",
         "created_at": "2024-08-05 11:20:58",
         "updated_at": "2024-08-05 11:20:58"
     }

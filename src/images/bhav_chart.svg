@@ -1,0 +1,46 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style>@import
+            url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&amp;display=swap');</style>
+    </defs>
+    <g>
+        <rect stroke="#BCAC9B" height="400" width="400" y="0" x="0" stroke-width="3" fill="#DDC9B4"></rect>
+        <line stroke-linecap="undefined" stroke-linejoin="undefined" y2="400" x2="400" y1="0" x1="0"
+            stroke-width="2" stroke="#BCAC9B" fill="none"></line>
+        <line stroke-linecap="null" stroke-linejoin="null" y2="400" x2="0" y1="0" x1="400"
+            fill-opacity="null" stroke-opacity="null" stroke-width="2" stroke="#BCAC9B" fill="none"></line>
+        <line stroke="#BCAC9B" stroke-linecap="null" stroke-linejoin="null" y2="200" x2="0" y1="0"
+            x1="200" fill-opacity="null" stroke-opacity="null" stroke-width="2" fill="none"></line>
+        <line stroke-linecap="null" stroke-linejoin="null" y2="400" x2="200" y1="200" x1="0"
+            fill-opacity="null" stroke-opacity="null" stroke-width="2" stroke="#BCAC9B" fill="none"></line>
+        <line stroke-linecap="null" stroke-linejoin="null" y2="0" x2="200" y1="200" x1="400"
+            fill-opacity="null" stroke-opacity="null" stroke-width="2" stroke="#BCAC9B" fill="none"></line>
+        <line stroke-linecap="null" stroke-linejoin="null" y2="200" x2="400" y1="400" x1="200"
+            fill-opacity="null" stroke-opacity="null" stroke-width="2" stroke="#BCAC9B" fill="none"></line>
+        <text font-size="11px" x="197" y="193" style="fill: #A5243D" font-family="Roboto">3</text>
+        <text font-size="11px" x="95" y="90" style="fill: #A5243D" font-family="Roboto">4</text>
+        <text font-size="11px" x="85" y="105" style="fill: #A5243D" font-family="Roboto">5</text>
+        <text font-size="11px" x="185" y="205" style="fill: #A5243D" font-family="Roboto">6</text>
+        <text font-size="11px" x="85" y="305" style="fill: #A5243D" font-family="Roboto">7</text>
+        <text font-size="11px" x="98" y="315" style="fill: #A5243D" font-family="Roboto">8</text>
+        <text font-size="11px" x="195" y="217" style="fill: #A5243D" font-family="Roboto">9</text>
+        <text font-size="11px" x="298" y="315" style="fill: #A5243D" font-family="Roboto">10</text>
+        <text font-size="11px" x="305" y="305" style="fill: #A5243D" font-family="Roboto">11</text>
+        <text font-size="11px" x="208" y="205" style="fill: #A5243D" font-family="Roboto">12</text>
+        <text font-size="11px" x="305" y="104" style="fill: #A5243D" font-family="Roboto">1</text>
+        <text font-size="11px" x="298" y="95" style="fill: #A5243D" font-family="Roboto">2</text>
+        <text font-size="21px" x="190" y="115" style="fill: #2A3D45" font-family="Roboto">Asc</text>
+        <text font-size="21px" x="75" y="200" style="fill: #2A3D45" font-family="Roboto">Ke</text>
+        <text font-size="21px" x="35" y="300" style="fill: #2A3D45" font-family="Roboto">Su</text>
+        <text font-size="21px" x="35" y="330" style="fill: #2A3D45" font-family="Roboto">(Ve)</text>
+        <text font-size="21px" x="35" y="270" style="fill: #2A3D45" font-family="Roboto">Pl</text>
+        <text font-size="21px" x="90" y="350" style="fill: #2A3D45" font-family="Roboto">(Me)</text>
+        <text font-size="21px" x="40" y="375" style="fill: #2A3D45" font-family="Roboto">Sa</text>
+        <text font-size="21px" x="75" y="375" style="fill: #2A3D45" font-family="Roboto">Ur</text>
+        <text font-size="21px" x="180" y="300" style="fill: #2A3D45" font-family="Roboto">Ne</text>
+        <text font-size="21px" x="300" y="350" style="fill: #2A3D45" font-family="Roboto">Ma</text>
+        <text font-size="21px" x="365" y="270" style="fill: #2A3D45" font-family="Roboto">Mo</text>
+        <text font-size="21px" x="365" y="300" style="fill: #2A3D45" font-family="Roboto">Ju</text>
+        <text font-size="21px" x="288" y="155" style="fill: #2A3D45" font-family="Roboto">Ra</text>
+    </g>
+</svg>
